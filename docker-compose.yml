@@ -1,0 +1,111 @@
+version: "3.8"
+
+services:
+  vpn:
+    image: ghcr.io/bubuntux/nordvpn
+    container_name: nordvpn
+    cap_add:
+      - NET_ADMIN
+    devices:
+      - /dev/net/tun
+    sysctls:
+      - net.ipv6.conf.all.disable_ipv6=1
+    environment:
+      - USER=${NORDVPN_USERNAME}
+      - PASS=${NORDVPN_PASSWORD}
+      - CONNECT=${NORDVPN_COUNTRY}
+      - TECHNOLOGY=${NORDVPN_TECH}
+      - TZ=${TZ}
+    restart: unless-stopped
+
+  deluge:
+    image: lscr.io/linuxserver/deluge:latest
+    container_name: deluge
+    network_mode: service:vpn
+    depends_on:
+      - vpn
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - /mnt/disk_1tb/config/deluge:/config
+      - /mnt/disk_1tb/downloads:/downloads
+    restart: unless-stopped
+
+  sabnzbd:
+    image: lscr.io/linuxserver/sabnzbd:latest
+    container_name: sabnzbd
+    network_mode: service:vpn
+    depends_on:
+      - vpn
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - /mnt/disk_1tb/config/sabnzbd:/config
+      - /mnt/disk_1tb/downloads:/downloads
+    restart: unless-stopped
+
+  sonarr:
+    image: lscr.io/linuxserver/sonarr:latest
+    container_name: sonarr
+    network_mode: service:vpn
+    depends_on:
+      - vpn
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - /mnt/disk_1tb/config/sonarr:/config
+      - /mnt/network_drive/tv:/tv
+      - /mnt/disk_1tb/downloads:/downloads
+    restart: unless-stopped
+
+  radarr:
+    image: lscr.io/linuxserver/radarr:latest
+    container_name: radarr
+    network_mode: service:vpn
+    depends_on:
+      - vpn
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - /mnt/disk_1tb/config/radarr:/config
+      - /mnt/network_drive/movies:/movies
+      - /mnt/disk_1tb/downloads:/downloads
+    restart: unless-stopped
+
+  lidarr:
+    image: lscr.io/linuxserver/lidarr:latest
+    container_name: lidarr
+    network_mode: service:vpn
+    depends_on:
+      - vpn
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - /mnt/disk_1tb/config/lidarr:/config
+      - /mnt/network_drive/music:/music
+      - /mnt/disk_1tb/downloads:/downloads
+    restart: unless-stopped
+
+  prowlarr:
+    image: lscr.io/linuxserver/prowlarr:latest
+    container_name: prowlarr
+    network_mode: service:vpn
+    depends_on:
+      - vpn
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - /mnt/disk_1tb/config/prowlarr:/config
+    restart: unless-stopped
