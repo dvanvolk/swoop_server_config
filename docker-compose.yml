@@ -61,7 +61,7 @@ services:
     volumes:
       - /mnt/disk_1tb/config/sonarr:/config
       - /mnt/network_drive/tv:/tv
-      - /mnt/disk_1tb/downloads:/downloads
+      - /mnt/disk_1tb/downloads/complete:/downloads
     restart: unless-stopped
 
   radarr:
@@ -77,7 +77,7 @@ services:
     volumes:
       - /mnt/disk_1tb/config/radarr:/config
       - /mnt/network_drive/movies:/movies
-      - /mnt/disk_1tb/downloads:/downloads
+      - /mnt/disk_1tb/downloads/complete:/downloads
     restart: unless-stopped
 
   lidarr:
@@ -93,7 +93,7 @@ services:
     volumes:
       - /mnt/disk_1tb/config/lidarr:/config
       - /mnt/network_drive/music:/music
-      - /mnt/disk_1tb/downloads:/downloads
+      - /mnt/disk_1tb/downloads/complete:/downloads
     restart: unless-stopped
 
   prowlarr:
@@ -108,4 +108,17 @@ services:
       - TZ=${TZ}
     volumes:
       - /mnt/disk_1tb/config/prowlarr:/config
+    restart: unless-stopped
+
+  overseerr:
+    image: lscr.io/linuxserver/overseerr:latest
+    container_name: overseerr
+    ports:
+      - 5055:5055
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - /mnt/disk_1tb/config/overseerr:/config
     restart: unless-stopped
