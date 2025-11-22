@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   nordvpn:
-    image: ghcr.io/bubuntux/nordvpn
+    image: ghcr.io/bubuntux/nordlynx
     container_name: nordvpn
     cap_add:
       - NET_ADMIN
@@ -19,6 +19,13 @@ services:
       - /home/dan/config/vpn/nordvpn_credentials.env
     volumes:
       - /home/dan/config/nordvpn:/config
+    ports:
+      - 8112:8112  # Deluge
+      - 8080:8080  # SABnzbd
+      - 8989:8989  # Sonarr
+      - 7878:7878  # Radarr
+      - 8686:8686  # Lidarr
+      - 9696:9696  # Prowlarr
     restart: unless-stopped
 
   deluge:
