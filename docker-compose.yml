@@ -25,9 +25,9 @@ services:
   deluge:
     image: lscr.io/linuxserver/deluge:latest
     container_name: deluge
-    network_mode: service:vpn
+    network_mode: service:nordvpn
     depends_on:
-      - vpn
+      - nordvpn
     environment:
       - PUID=${PUID}
       - PGID=${PGID}
@@ -40,9 +40,9 @@ services:
   sabnzbd:
     image: lscr.io/linuxserver/sabnzbd:latest
     container_name: sabnzbd
-    network_mode: service:vpn
+    network_mode: service:nordvpn
     depends_on:
-      - vpn
+      - nordvpn
     environment:
       - PUID=${PUID}
       - PGID=${PGID}
@@ -55,9 +55,9 @@ services:
   sonarr:
     image: lscr.io/linuxserver/sonarr:latest
     container_name: sonarr
-    network_mode: service:vpn
+    network_mode: service:nordvpn
     depends_on:
-      - vpn
+      - nordvpn
     environment:
       - PUID=${PUID}
       - PGID=${PGID}
@@ -71,9 +71,9 @@ services:
   radarr:
     image: lscr.io/linuxserver/radarr:latest
     container_name: radarr
-    network_mode: service:vpn
+    network_mode: service:nordvpn
     depends_on:
-      - vpn
+      - nordvpn
     environment:
       - PUID=${PUID}
       - PGID=${PGID}
@@ -87,9 +87,9 @@ services:
   lidarr:
     image: lscr.io/linuxserver/lidarr:latest
     container_name: lidarr
-    network_mode: service:vpn
+    network_mode: service:nordvpn
     depends_on:
-      - vpn
+      - nordvpn
     environment:
       - PUID=${PUID}
       - PGID=${PGID}
@@ -103,9 +103,9 @@ services:
   prowlarr:
     image: lscr.io/linuxserver/prowlarr:latest
     container_name: prowlarr
-    network_mode: service:vpn
+    network_mode: service:nordvpn
     depends_on:
-      - vpn
+      - nordvpn
     environment:
       - PUID=${PUID}
       - PGID=${PGID}
