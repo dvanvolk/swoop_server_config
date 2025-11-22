@@ -15,6 +15,7 @@ services:
       - TZ=${TZ}
       - PUID=${PUID}
       - PGID=${PGID}
+      - NET_LOCAL=192.168.10.25/24
     env_file:
       - /home/dan/config/vpn/nordvpn_credentials.env
     volumes:
