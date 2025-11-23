@@ -69,7 +69,7 @@ services:
       - TZ=${TZ}
     volumes:
       - /mnt/disk_1tb/config/sonarr:/config
-      - /mnt/network_drive/TVShows:/tv
+      - /mnt/network_drive/tv:/tv
       - /mnt/disk_1tb/downloads/complete:/downloads
     restart: unless-stopped
 
