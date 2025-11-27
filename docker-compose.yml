@@ -70,7 +70,7 @@ services:
     volumes:
       - /mnt/disk_1tb/config/sonarr:/config
       - /mnt/network_drive/tv:/tv
-      - /mnt/disk_1tb/downloads/complete:/downloads
+      - /mnt/disk_1tb/downloads:/downloads
     restart: unless-stopped
 
   radarr:
@@ -86,7 +86,7 @@ services:
     volumes:
       - /mnt/disk_1tb/config/radarr:/config
       - /mnt/network_drive/movies:/movies
-      - /mnt/disk_1tb/downloads/complete:/downloads
+      - /mnt/disk_1tb/downloads:/downloads
     restart: unless-stopped
 
   lidarr:
@@ -102,7 +102,7 @@ services:
     volumes:
       - /mnt/disk_1tb/config/lidarr:/config
       - /mnt/network_drive/music:/music
-      - /mnt/disk_1tb/downloads/complete:/downloads
+      - /mnt/disk_1tb/downloads:/downloads
     restart: unless-stopped
 
   prowlarr:
