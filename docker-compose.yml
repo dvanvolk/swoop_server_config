@@ -119,6 +119,19 @@ services:
       - /mnt/disk_1tb/config/prowlarr:/config
     restart: unless-stopped
 
+  profilarr:
+      image: santiagosayshey/profilarr:latest # Use :beta for early access to new features
+      container_name: profilarr
+      ports:
+        - 6868:6868
+      volumes:
+        - /mnt/disk_1tb/config/profilarr:/config
+      environment:
+        - PUID=${PUID}
+        - PGID=${PGID}
+        - TZ=${TZ}
+      restart: unless-stopped
+
   overseerr:
     image: lscr.io/linuxserver/overseerr:latest
     container_name: overseerr
