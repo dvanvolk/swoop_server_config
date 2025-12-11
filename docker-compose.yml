@@ -38,7 +38,7 @@ services:
       - PGID=${PGID}
       - TZ=${TZ}
     volumes:
-      - /mnt/disk_1tb/config/deluge:/config
+      - /home/dan/config/deluge:/config
       - /mnt/disk_1tb/downloads:/downloads
     restart: unless-stopped
 
@@ -53,7 +53,7 @@ services:
       - PGID=${PGID}
       - TZ=${TZ}
     volumes:
-      - /mnt/disk_1tb/config/sabnzbd:/config
+      - /home/dan/config/sabnzbd:/config
       - /mnt/disk_1tb/downloads:/downloads
     restart: unless-stopped
 
@@ -68,7 +68,7 @@ services:
       - PGID=${PGID}
       - TZ=${TZ}
     volumes:
-      - /mnt/disk_1tb/config/sonarr:/config
+      - /home/dan/config/sonarr:/config
       - /mnt/network_drive/tv:/tv
       - /mnt/disk_1tb/downloads:/downloads
     restart: unless-stopped
@@ -84,7 +84,7 @@ services:
       - PGID=${PGID}
       - TZ=${TZ}
     volumes:
-      - /mnt/disk_1tb/config/radarr:/config
+      - /home/dan/config/radarr:/config
       - /mnt/network_drive/movies:/movies
       - /mnt/disk_1tb/downloads:/downloads
     restart: unless-stopped
@@ -100,7 +100,7 @@ services:
       - PGID=${PGID}
       - TZ=${TZ}
     volumes:
-      - /mnt/disk_1tb/config/lidarr:/config
+      - /home/dan/config/lidarr:/config
       - /mnt/network_drive/music:/music
       - /mnt/disk_1tb/downloads:/downloads
     restart: unless-stopped
@@ -116,7 +116,7 @@ services:
       - PGID=${PGID}
       - TZ=${TZ}
     volumes:
-      - /mnt/disk_1tb/config/prowlarr:/config
+      - /home/dan/config/prowlarr:/config
     restart: unless-stopped
 
   profilarr:
@@ -125,7 +125,7 @@ services:
       ports:
         - 6868:6868
       volumes:
-        - /mnt/disk_1tb/config/profilarr:/config
+        - /home/dan/config/profilarr:/config
       environment:
         - PUID=${PUID}
         - PGID=${PGID}
@@ -142,5 +142,5 @@ services:
       - PGID=${PGID}
       - TZ=${TZ}
     volumes:
-      - /mnt/disk_1tb/config/overseerr:/config
+      - /home/dan/config/overseerr:/config
     restart: unless-stopped
