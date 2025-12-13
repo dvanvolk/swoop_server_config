@@ -1,0 +1,3535 @@
+[
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\RESIDENT_EVIL no subtitle",
+    "reason": "Duplicate of RESIDENT EVIL no subtitle"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\300 (2007)",
+    "reason": "Duplicate of 300 (2006)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Aladdin (2019)",
+    "reason": "Duplicate of Aladdin (1992)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Blade Runner 2049",
+    "reason": "Duplicate of Blade Runner 2049 (2017)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Home Alone",
+    "reason": "Duplicate of Home Alone (1990)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\JOHNNY DANGEROUSLY",
+    "reason": "Duplicate of Johnny Dangerously (1984)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\MARY_POPPINS_RETURNS",
+    "reason": "Duplicate of Mary Poppins Returns (2018)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Resident Evil   Afterlife (2010)",
+    "reason": "Duplicate of Resident Evil Afterlife (2010)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Robin Hood (1985)",
+    "reason": "Duplicate of Robin Hood (2010)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Rocky 3",
+    "reason": "Duplicate of Rocky 3 (1982)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Shawshank Redemption",
+    "reason": "Duplicate of Shawshank Redemption (1994)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Stockholm (2019)",
+    "reason": "Duplicate of Stockholm (2018)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\The Mummy (1999)",
+    "reason": "Duplicate of The Mummy (2017)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\BACK TO THE FUTURE",
+    "reason": "Duplicate of Back to the Future (1985)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Batman Begins",
+    "reason": "Duplicate of Batman Begins (2005)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\The Dark Knight",
+    "reason": "Duplicate of The Dark Knight (2008)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\BLACK PANTHER",
+    "reason": "Duplicate of Black Panther (2018)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\OLD SCHOOL",
+    "reason": "Duplicate of Old School (2003)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Transformers Dark of the Moon",
+    "reason": "Duplicate of Transformers Dark of the Moon (2011)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\PITCH PERFECT 3",
+    "reason": "Duplicate of Pitch Perfect 3 (2017)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Transformers Revenge of the Fallen",
+    "reason": "Duplicate of Transformers Revenge of the Fallen (2009)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Justice League",
+    "reason": "Duplicate of Justice League (2017)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\DESPICABLE ME 3",
+    "reason": "Duplicate of Despicable Me 3 (2017)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\wonder woman (1984)",
+    "reason": "Duplicate of Wonder Woman (2017)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\WONDER WOMAN",
+    "reason": "Duplicate of Wonder Woman (2017)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Transformers Age of Extinction",
+    "reason": "Duplicate of Transformers Age of Extinction (2014)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Pirates of the Caribbean The Curse of the Black Pearl",
+    "reason": "Duplicate of Pirates of the Caribbean The Curse of the Black Pearl (2003)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\The Dark Knight Rises",
+    "reason": "Duplicate of The Dark Knight Rises (2012)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Pirates of the Caribbean Dead Men Tell No Tales",
+    "reason": "Duplicate of Pirates of the Caribbean Dead Men Tell No Tales (2017)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Pirates of the Caribbean On Stranger Tides",
+    "reason": "Duplicate of Pirates of the Caribbean On Stranger Tides (2011)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\1) Airplane",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\1) Car Ride In From Gluttony",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\1) Early Storyboards",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\1) From Bar to the Abyss",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\1) John Doe's Photographs",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\100 Cartoons Disc1",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\100 Cartoons Disc2",
+    "reason": "No year available"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1001   The Return of Chef",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 10"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1002   Smug Alert!",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 10",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1003   Cartoon Wars (Part 1)",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 10",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1004   Cartoon Wars (Part 2)",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 10",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1005   A Million Little Fibers",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 10",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1006   Manbearpig",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 10",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1007   Tsst",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 10",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1008   Make Love, Not Warcraft",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 10",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1009   Mystery of the Urinal Deuce",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 10",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1010   Miss Teacher Bangs a Boy",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 10",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1012   Go God Go",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 10",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1013   Go God Go XII",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 10",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1014   Stanley's Cup",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 10",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1101   With Apologies to Jesse Jackson",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 11",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1102   Cartman Sucks",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 11",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1103   Lice Capades",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 11",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1104   The Snuke",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 11",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1105   Fantastic Easter Special",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 11",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1106   D Yikes!",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 11",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1107   Night of the Living Homeless",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 11",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1108   Le Petit Tourette",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 11",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1109   More Crap",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 11",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1110   Imaginationland Episode I",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 11",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1111   Imaginationland Episode II",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 11",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1112   Imaginationland Episode III",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 11",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1113   Guitar Queer O",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 11",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1114   The List",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 11",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1201   Tonsil Trouble",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 12",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1202   Britney's New Look",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 12",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1203   Major Boobage",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 12",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1204   Canada on Strike",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 12",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1205   Eek, a Penis!",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 12",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1206   Over Logging",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 12",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1207   Super Fun Time",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 12",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1208   The China Probrem",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 12",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1209   Breast Cancer Show Ever",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 12",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1210   Pandemic",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 12",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1211   Pandemic 2   The Startling",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 12",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1212   About Last Night",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 12",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1214   The Ungroundable",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 12",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1301   The Ring",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 13",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1302   The Coon",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 13",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1303   Margaritaville",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 13",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1304   Eat, Pray, Queef",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 13",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1305   Fishsticks",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 13",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1306   Pinewood Derby",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 13",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1307   Fatbeard",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 13",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1308   Dead Celebrities",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 13",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1309   Butters' Bottom Bitch",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 13",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1310   W T F",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 13",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1311   Whale Whores",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 13",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1312   The F Word",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 13",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1313   Dances with Smurfs",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 13",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1314   Pee",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 13",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1401   Sexual Healing",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 14",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1402   The Tale of Scrotie Mcboogerballs",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 14",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1403   Medicinal Fried Chicken",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 14",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1404   You Have 0 Friends",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 14",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1405   200",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 14",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1406   201",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 14",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1407   Crippled Summer",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 14",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1408   Poor and Stupid",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 14",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1409   It's a Jersey Thing",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 14",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1410   Insheeption",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 14",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1411   Coon 2   Hindsight",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 14",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1412   Mysterion Rises",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 14",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1413   Coon vs  Coon and Friends",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 14",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1414   Crème Fraîche",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 14",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\15 Deleted Scenes",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 15",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1501   Humancentipad",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 15",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1502   Funnybot",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 15",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1503   Royal Pudding",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 15",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1504   T M I",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 15",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1505   Crack Baby Athletic Association",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 15",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1506   City Sushi",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 15",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1507   You're Getting Old",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 15",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1508   Ass Burgers",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 15",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1509   The Last of the Meheecans",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 15",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1510   Bass to Mouth",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 15",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1511   Broadway Bro Down",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 15",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1512   1%",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 15",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1513   A History Channel Thanksgiving",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 15",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1514   The Poor Kid",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 15",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1601   Reverse Cowgirl",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 16",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1602   Cash for Gold",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 16",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1603   Faith Hilling",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 16",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1604   Jewpacabra",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 16",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1605   Butterballs",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 16",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1606   I Should Have Never Gone Ziplining",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 16",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1607   Cartman Finds Love",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 16",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1608   Sarcastaball",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 16",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1609   Raising the Bar",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 16",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1610   Insecurity",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 16",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1611   Going Native",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 16",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1612   A Nightmare on Facetime",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 16",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1613   A Scause for Applause",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 16",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1614   Obama Wins!",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 16",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1701   Let Go, Let Gov",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 17",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1702   Informative Murder Porn",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 17",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1703   World War Zimmerman",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 17",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1704   Goth Kids 3   Dawn of the Posers",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 17",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1705   Taming Strange",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 17",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1706   Ginger Cow",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 17",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1707   Black Friday",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 17",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1708   A Song of Ass and Fire",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 17",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1709   Titties and Dragons",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 17",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1710   The Hobbit",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 17",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1801   Go Fund Yourself",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 18",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1802   Gluten Free Ebola",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 18",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1803   The Cissy",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 18",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1804   Handicar",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 18",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1805   The Magic Bush",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 18",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1806   Freemium isn't Free",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 18",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1807   Grounded Vindaloop",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 18",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1808   Cock Magic",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 18",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1809   Rehash",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 18",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1810   Happyholograms",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 18",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\19 sets of Alternate Lines",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 19",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1901   Stunning and Brave",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 19",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1902   Where My Country Gone",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 19",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1903   The City Part of Town",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 19",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1904   You're Not Yelping",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 19",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1905   Safe Space",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 19",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1906   Tweek x Craig",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 19",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1907   Naughty Ninjas",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 19",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1908   Sponsored Content",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 19",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1909   Truth and Advertising",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 19",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\1910   PC Principal Final Justice",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 19",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\2) Desert"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\2) Dog Fight",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 10",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\2) Rough Version",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\2) Spare Some Change",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\2) Victor's Decomposition",
+    "reason": "No year available"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2001   Member Berries",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 20",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2002   Skank Hunt",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 20",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2003   The Damned",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\2004   Wieners Out",
+
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 20",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2005   Douche and a Danish",
+    
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 20",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2006   Fort Collins",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 20",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2007   Oh, Jeez",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 20",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2008   Members Only",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 20",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2009   Not Funny",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 20",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2010   The End of Serialization as We Know it",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 20",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2101   White People Renovating Houses",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 21",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2102   Put it Down",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 21",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2103   Holiday Special",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 21",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2104   Franchise Prequel",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 21",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2105   Hummels & Heroin",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 21",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2106   Sons a Witches",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 21",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2107   Doubling Down",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 21",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2108   Moss Piglets",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 21",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2109   Super Hard PCness",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 21",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2110   Splatty Tomato",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 21",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2201   Dead Kids",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 22",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2202   A Boy and a Priest",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 22",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2203   The Problem with a Poo",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 22",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2204   Tegridy Farms",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 22",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2205   The Scoots",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 22",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2206   Time to Get Cereal",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 22",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2207   Nobody Got Cereal",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 22",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2208   Buddha Box",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 22",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2209   Unfulfilled",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 22",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2210   Bike Parade",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 22",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2301   Mexican Joker",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 23",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2302   Band in China",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 23",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2303   Shots!!!",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 23",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2304   Let Them Eat Goo",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 23",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2305   Tegridy Farms Halloween Special",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 23",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2306   Season Finale",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 23",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2307   Board Girls",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 23",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2308   Turd Burglars",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 23",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2309   Basic Cable",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 23",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2310   Christmas Snow",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 23",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2401   The Pandemic Special",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 24",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2402   South ParQ Vaccination Special",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 24",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2501   Pajama Day",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 25",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2502   The Big Fix",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 25",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2503   City People",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 25",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2504   Back to the Cold War",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 25",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2505   Help, My Teenager Hates Me!",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 25",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2506   Credigree Weed St  Patrick's Day Special",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 25",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2601   Cupid Ye",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 26",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2602   The Worldwide Privacy Tour",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 26",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2603   Japanese Toilet",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 26",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2604   Deep Learning",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 26",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2605   DikinBaus Hot Dogs",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 26",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\2606   Spring Break",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 26",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "delete",
+    "old_path": "\\\\192.168.10.45\\Movies\\3) Final Edit",
+    "new_path": "\\\\192.168.10.45\\Movies\\3) Final Edit (2008)",
+    "old_name": "3) Final Edit",
+    "new_name": "3) Final Edit (2008)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\3) Lab Attack",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\3) My Future",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\3) Police Crime Scene Photographs",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\3) Strickland's Pursuit",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\3588fb931c2740b4b27e091ed19a4d0d[EZTVx to]",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\4 Deleted Scenes",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\4) Production Photographs",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\4) Tracy Wakes From Light Sleep",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\4) Venom's Guilty Pleasure",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\5) Notebooks",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\5) Raid on Victor's",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\5) Toxin's Warnings",
+    "reason": "No year available"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\501   It Hits the Fan",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 5",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\502   Cripple Fight",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 5",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\503   Super Best Friends",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 5",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\504   Scott Tenorman Must Die",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 5",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\505   Terrance and Phillip   Behind the Blow",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 5",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\506   Cartmanland",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 5",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\507   Proper Condom Use",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 5",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\508   Towelie",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 5",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\509   Osama Bin Laden Has Farty Pants",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 5",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\510   How to Eat with Your Butt",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 5",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\511   The Entity",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 5",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\512   Here Comes the Neighborhood",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 5",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\513   Kenny Dies",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 5",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\514   Butters' Very Own Episode",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 5",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\6) Penthouse",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 5",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "delete",
+    "old_path": "\\\\192.168.10.45\\Movies\\6) Pride",
+    "new_path": "\\\\192.168.10.45\\Movies\\6) Pride (1999)",
+    "old_name": "6) Pride",
+    "new_name": "6) Pride (1999)"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\601   Jared Has Aides",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\602   Asspen",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\603   Freak Strike",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\604   Fun with Veal",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\605   The New Terrance and Phillip Movie Trailer",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\606   Professor Chaos",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\607   Simpsons Already Did it",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\608   Red Hot Catholic Love",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\609   Free Hat",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\610   Bebe's Boobs Destroy Society",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\611   Child Abduction is Not Funny",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\612   A Ladder to Heaven",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\613   The Return of the Fellowship of the Ring to the Two Towers",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\614   The Death Camp of Tolerance",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\615   The Biggest Douche in the Universe",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\616   My Future Self 'N' Me",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\617   Red Sleigh Down",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\6ba1620458744cb180ddcb7d828ae35e[EZTVx to]",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 6",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\7) Xenophage Landing",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\701   Cancelled",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 7",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\702   Krazy Kripples",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 7",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\703   Toilet Paper",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 7",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\704   I'm a Little Bit Country",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 7",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\705   Fat Butt and Pancake Head",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 7",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\706   Lil' Crime Stoppers",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 7",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\707   Red Man's Greed",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 7",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\708   South Park is Gay!",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 7",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\709   Christian Rock Hard",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 7",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\710   Grey Dawn",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 7",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\711   Casa Bonita",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 7",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\712   All About Mormons",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 7",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\713   Butt Out",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 7",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\714   Raisins",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 7",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\715   It's Christmas in Canada",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 7",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\8 rules of Fight Club V1",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 7",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\8 rules of Fight Club V2",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 7",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\801   Good Times with Weapons",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 8",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\802   Up the Down Steroid",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 8",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\803   The Passion of the Jew",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 8",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\804   You Got F'd in the A",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 8",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\805   Awesom O",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 8",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\806   The Jeffersons",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 8",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\807   Goobacks",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 8",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\808   Douche and Turd",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 8",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\809   Something Wall Mart this Way Comes",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 8",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\810   Preschool",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 8",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\811   Quest for Ratings",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 8",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\812   Stupid Spoiled Whore Video Playset",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 8",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\813   Cartman's Incredible Gift",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 8",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\814   Woodland Critter Christmas",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 8",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\901   Mr  Garrison's Fancy New Vagina",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 9",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\902   Die Hippie, Die",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 9",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\903   Wing",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 9",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\904   Best Friends Forever",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 9",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\905   The Losing Edge",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 9",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\906   The Death of Eric Cartman",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 9",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\907   Erection Day",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 9",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\908   Two Days Before the Day After Tomorrow",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 9",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\909   Marjorine",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 9",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\910   Follow that Egg!",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 9",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\911   Ginger Kids",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 9",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\912   Trapped in the Closet",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 9",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\913   Free Willzyx",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 9",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "move",
+    "path": "\\\\192.168.10.45\\Movies\\914   Bloody Mary",
+    "destination": "\\\\192.168.10.45\\TVShows\\South Park\\Season 9",
+    "reason": "South Park episodes should not be in Movies"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\A Closer Look At Interspecies Erotica",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\A Good Day to Die Hard (2013) Extended (",
+    "new_path": "\\\\192.168.10.45\\Movies\\A Good Day to Die Hardextended (2013)",
+    "old_name": "A Good Day to Die Hard (2013) Extended (",
+    "new_name": "A Good Day to Die Hardextended (2013)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\A public service message from 20th Century Fox",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\A Rare Condition  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Airport scene planning",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Airport scene planning + shooting",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Airport scene shooting",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "old_path": "\\\\192.168.10.45\\Movies\\Alternate Ending",
+    "new_path": "\\\\192.168.10.45\\Movies\\Alternate Ending (2003)",
+    "old_name": "Alternate Ending",
+    "new_name": "Alternate Ending (2003)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Alternate Lines  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Alternate Lines 1  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Alternate Lines 2  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Alternate Lines 3  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Alternate Lines A Second Opinion  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\American Gangster (2007) Extended (",
+    "new_path": "\\\\192.168.10.45\\Movies\\American Gangster Extended (2007)",
+    "old_name": "American Gangster (2007) Extended (",
+    "new_name": "American Gangster Extended (2007)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Anatomy of a Car Chase",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Angel face beating",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Angel Faces Beating",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Animated Storyboards of Un shot Ending",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "old_path": "\\\\192.168.10.45\\Movies\\Assembled   The Making of Loki",
+    "new_path": "\\\\192.168.10.45\\Movies\\Assembled the Making of Loki (2023)",
+    "old_name": "Assembled   The Making of Loki",
+    "new_name": "Assembled the Making of Loki (2023)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Audi Product Placement",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Audition Tapes to Final Scene Comparisons",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Author of Mayhem   From Writer to Director",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "old_path": "\\\\192.168.10.45\\Movies\\Back in Action",
+    "new_path": "\\\\192.168.10.45\\Movies\\Back in Action (2025)",
+    "old_name": "Back in Action",
+    "new_name": "Back in Action (2025)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\back to school rmxtras",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\BACK TO THE FUTURE",
+    "reason": "Target Back to the Future (1985) already exists"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Back to the Future (1985) (",
+    "new_path": "\\\\192.168.10.45\\Movies\\Back to the Future (1985)",
+    "old_name": "Back to the Future (1985) (",
+    "new_name": "Back to the Future (1985)"
+  },
+  {
+    "action": "delete",
+    "old_path": "\\\\192.168.10.45\\Movies\\Back to the Well   Clerks II",
+    "new_path": "\\\\192.168.10.45\\Movies\\Back to the Well Clerks II (2006)",
+    "old_name": "Back to the Well   Clerks II",
+    "new_name": "Back to the Well Clerks II (2006)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Basement fight   Alternate multiple audio",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Batman Begins",
+    "reason": "Target Batman Begins (2005) already exists"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Beating up the Fight Club",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Beauty_And_The_Beast_(Live_Action)",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\bfafa96b40f74d809efc48ac23b9dfcf",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\BIG LITTLE LIESsideatitle00",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\BIG LITTLE LIESsideatitle01",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\BIG LITTLE LIESsideatitle02",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\BIG LITTLE LIESsideatitle03",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\BIG LITTLE LIESsideatitle04",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\BIG LITTLE LIESsidebtitle00",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\BIG LITTLE LIESsidebtitle01",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\BIG LITTLE LIESsidebtitle02",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\BLACK PANTHER",
+    "reason": "Target Black Panther (2018) already exists"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Blade Runner 2049",
+    "reason": "Target Blade Runner 2049 (2017) already exists"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Blade Runner 2049Blade Runner 2049 t00",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "old_path": "\\\\192.168.10.45\\Movies\\Bloopers",
+    "new_path": "\\\\192.168.10.45\\Movies\\Bloopers (2017)",
+    "old_name": "Bloopers",
+    "new_name": "Bloopers (2017)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Bonded in Chaos   Tom Hardy",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Brave (2012) 4K UHD Remux",
+    "new_path": "\\\\192.168.10.45\\Movies\\Brave4k Uhd Remux (2012)",
+    "old_name": "Brave (2012) 4K UHD Remux",
+    "new_name": "Brave4k Uhd Remux (2012)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Brock Bottom   Mrs  Chen Interview",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\brothers in arms rmxtras",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Cars 2 (2011) (",
+    "new_path": "\\\\192.168.10.45\\Movies\\Cars 2 (2011)",
+    "old_name": "Cars 2 (2011) (",
+    "new_name": "Cars 2 (2011)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\CASPER short cartoon",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\CBS   A Night to Die For   McClane is Back",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Cinderella (2015) (",
+    "new_path": "\\\\192.168.10.45\\Movies\\Cinderella (2015)",
+    "old_name": "Cinderella (2015) (",
+    "new_name": "Cinderella (2015)"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Clerks II (2006) (",
+    "new_path": "\\\\192.168.10.45\\Movies\\Clerks II (2006)",
+    "old_name": "Clerks II (2006) (",
+    "new_name": "Clerks II (2006)"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Clerks III (2022) (",
+    "new_path": "\\\\192.168.10.45\\Movies\\Clerks III (2022)",
+    "old_name": "Clerks III (2022) (",
+    "new_name": "Clerks III (2022)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Copy machine abuse scene",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Corporate building sphere scene planning and shooting",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Creating an X5",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\cube o rama rmxtras",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Dalton Speaks of Case\u2019s Sins",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Dark Angel video game trailer",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Dark Angel\ua789 Genesis",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Dark Phoenix (2019) (",
+    "new_path": "\\\\192.168.10.45\\Movies\\Dark Phoenix (2019)",
+    "old_name": "Dark Phoenix (2019) (",
+    "new_name": "Dark Phoenix (2019)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Deeper Into the Woods",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Deleted Scene   The Norns",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Deleted Scene   Ultrons Out",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "old_path": "\\\\192.168.10.45\\Movies\\Deleted Scenes",
+    "new_path": "\\\\192.168.10.45\\Movies\\Deleted Scenes (2010)",
+    "old_name": "Deleted Scenes",
+    "new_name": "Deleted Scenes (2010)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Deleted Scenes  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\deleted scenes rmxtras",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Deleted Song   She'll Be Back",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Designing the TVA",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\DESPICABLE ME 3",
+    "reason": "Target Despicable Me 3 (2017) already exists"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Die Hard 3",
+    "new_path": "\\\\192.168.10.45\\Movies\\Die Hard 3 (1995)",
+    "old_name": "Die Hard 3",
+    "new_name": "Die Hard 3 (1995)"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Die Hard with a Vengeance (1995) (",
+    "new_path": "\\\\192.168.10.45\\Movies\\Die Hard With a Vengeance (1995)",
+    "old_name": "Die Hard with a Vengeance (1995) (",
+    "new_name": "Die Hard With a Vengeance (1995)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Donald Keeps Talking  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\DONT WORRY HE WONT GET FAR ON FOOT",
+    "new_path": "\\\\192.168.10.45\\Movies\\Dont Worry He Wont Get Far on Foot (2018)",
+    "old_name": "DONT WORRY HE WONT GET FAR ON FOOT",
+    "new_name": "Dont Worry He Wont Get Far on Foot (2018)"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Don\u2019t Try This At Home  [",
+    "new_path": "\\\\192.168.10.45\\Movies\\Don\u2019t Try This at Home (1990)",
+    "old_name": "Don\u2019t Try This At Home  [",
+    "new_name": "Don\u2019t Try This at Home [ (1990)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\DRAGGED_AROSS_CONCRETE",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Easter Egg   Gag Reel",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Easter Egg 1",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Easter Egg 2",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Easter Egg 3",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "old_path": "\\\\192.168.10.45\\Movies\\Easter Eggs",
+    "new_path": "\\\\192.168.10.45\\Movies\\Easter Eggs (2021)",
+    "old_name": "Easter Eggs",
+    "new_name": "Easter Eggs (2021)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Everyones Hero WS",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Exploration of the Opening Title Sequence",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Extended Scene   Romanoff and Banner",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Family Dynamics  (",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\FANTASTIC FOUR ANIMATED VOLUME 2Part1",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\FANTASTIC FOUR ANIMATED VOLUME 2Part2",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\FANTASTIC FOUR ANIMATED VOLUME 2Part3",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\FANTASTIC FOUR ANIMATED VOLUME 2Part4",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "old_path": "\\\\192.168.10.45\\Movies\\Favorite Moments  [",
+    "new_path": "\\\\192.168.10.45\\Movies\\Favorite Moments [ (2004)",
+    "old_name": "Favorite Moments  [",
+    "new_name": "Favorite Moments [ (2004)"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Fight Club (1999) AI UHD   10th Anniversary Edition + Extras (PROPER)",
+    "new_path": "\\\\192.168.10.45\\Movies\\Fight Clubai Uhd 10th Anniversary Edition + Extras (proper) (1999)",
+    "old_name": "Fight Club (1999) AI UHD   10th Anniversary Edition + Extras (PROPER)",
+    "new_name": "Fight Clubai Uhd 10th Anniversary Edition + Extras (proper) (1999)"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\From the Inside Out",
+    "new_path": "\\\\192.168.10.45\\Movies\\From the Inside Out (2011)",
+    "old_name": "From the Inside Out",
+    "new_name": "From the Inside Out (2011)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\From the Top Down   Stylizing Hair and Character",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Gag Reel",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Gag Reel  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\gag reel rmxtras",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "old_path": "\\\\192.168.10.45\\Movies\\Gallery",
+    "new_path": "\\\\192.168.10.45\\Movies\\Gallery (1971)",
+    "old_name": "Gallery",
+    "new_name": "Gallery (1971)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Happy Gilmore 1996 UHD",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\HBO First Look   Behind the Scenes",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Home Again 2017",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Home Alone",
+    "reason": "Target Home Alone (1990) already exists"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Hotel Transylvania 3",
+    "new_path": "\\\\192.168.10.45\\Movies\\Hotel Transylvania 3 (2018)",
+    "old_name": "Hotel Transylvania 3",
+    "new_name": "Hotel Transylvania 3 (2018)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\House building and scenes planning",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\House building and scenes shooting",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\House building scenes + shooting",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\How Movies Are Made",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Ice cave scene shooting",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Imagination Gone Wild  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Independence Day Resurgence (2016) 4K UHD Remux",
+    "new_path": "\\\\192.168.10.45\\Movies\\Independence Day Resurgence4k Uhd Remux (2016)",
+    "old_name": "Independence Day Resurgence (2016) 4K UHD Remux",
+    "new_name": "Independence Day Resurgence4k Uhd Remux (2016)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Infiltration and Termination  (",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Inside Man (2006) (",
+    "new_path": "\\\\192.168.10.45\\Movies\\Inside Man( (2006)",
+    "old_name": "Inside Man (2006) (",
+    "new_name": "Inside Man( (2006)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Interview   Bruce Willis",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Into the Woods (2014) (",
+    "new_path": "\\\\192.168.10.45\\Movies\\Into the Woods( (2014)",
+    "old_name": "Into the Woods (2014) (",
+    "new_name": "Into the Woods( (2014)"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Introduction by Kevin Smith and Scott Mosier",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Is There A Doctor In The House  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Jack finds his apartment destroyed   scene planning",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Jack finds his apartment destroyed   scene planning + shooting",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Jack finds his apartment destroyed   shooting the scene",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\JD's MoJo  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\Johnny C  Keeps Talking  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\JOHNNY DANGEROUSLY",
+    "reason": "Target Johnny Dangerously (1984) already exists"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\johnny depp on set rmxtras",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Jumanji Welcome to the Jungle (2017) BDRip",
+    "new_path": "\\\\192.168.10.45\\Movies\\Jumanji Welcome to the Jungle (2017)",
+    "old_name": "Jumanji Welcome to the Jungle (2017) BDRip",
+    "new_name": "Jumanji Welcome to the Jungle (2017)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Justice League",
+    "reason": "Target Justice League (2017) already exists"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\JUSTICE LEAGUE THE BRAVE AND THE BOLD t00",
+    "reason": "No year available"
+  },
+  {
+    "action": "delete",
+    "path": "\\\\192.168.10.45\\Movies\\JUSTICE LEAGUE THE BRAVE AND THE BOLD t01",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\JUSTICE LEAGUE THE BRAVE AND THE BOLD t02",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\JUSTICE LEAGUE THE BRAVE AND THE BOLD t03",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\JUSTICE LEAGUE THE BRAVE AND THE BOLD t04",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Justice LeagueJustice League t01",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Kong Skull Island (2017) 4K UHD Remux",
+    "new_path": "\\\\192.168.10.45\\Movies\\Kong Skull Island4k Uhd Remux (2017)",
+    "old_name": "Kong Skull Island (2017) 4K UHD Remux",
+    "new_name": "Kong Skull Island4k Uhd Remux (2017)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Kudzu Vine Speech",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Lazlo Bane Superman  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Let it go   Alternate multiple audio",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Life of the Party 2018",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Long Term Residents  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Making It Hard to Die",
+    "new_path": "\\\\192.168.10.45\\Movies\\Making It Hard to Die (2013)",
+    "old_name": "Making It Hard to Die",
+    "new_name": "Making It Hard to Die (2013)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Making the Manticore Monsters",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Maleficient",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Mandy (2018) ITA Ac3 5 1 sub Ita Eng WEB DL",
+    "new_path": "\\\\192.168.10.45\\Movies\\Mandyita Ac3 5 1 Sub Ita Eng Web DL (2018)",
+    "old_name": "Mandy (2018) ITA Ac3 5 1 sub Ita Eng WEB DL",
+    "new_name": "Mandyita Ac3 5 1 Sub Ita Eng Web DL (2018)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Marlas pillow talk",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\MARVEL'S CAPTAIN AMERICA- CIVIL WAR - BLU-RAY",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Marvel's Thor- RAGNAROK",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\MARY_POPPINS_RETURNS",
+    "reason": "Target Mary Poppins Returns (2018) already exists"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Mastering for Home Theater",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Max Resurrected",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Maximum McClane",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Menu Art",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Mufasa   The Lion King (2024) (",
+    "new_path": "\\\\192.168.10.45\\Movies\\Mufasa the Lion King( (2024)",
+    "old_name": "Mufasa   The Lion King (2024) (",
+    "new_name": "Mufasa the Lion King( (2024)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\My 117 Episodes A retrospective look back at the past five series  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\NINETOFIVE",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Not Just Another Medical Show  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Number 4 (conversation between Spike Lee and Denzel Washington)",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\OLD SCHOOL",
+    "reason": "Target Old School (2003) already exists"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\On Location",
+    "new_path": "\\\\192.168.10.45\\Movies\\On Location (2009)",
+    "old_name": "On Location",
+    "new_name": "On Location (2009)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\One Last Dance   Tom Morello x Grandson",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\One on One with Ken Jenkins",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Original 'Test' Ending",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Outtakes Reel  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\peter pan on the freeway rmxtras",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Pirates of the Caribbean   On Stranger Tides (2011) (",
+    "new_path": "\\\\192.168.10.45\\Movies\\Pirates of the Caribbean on Stranger Tides( (2011)",
+    "old_name": "Pirates of the Caribbean   On Stranger Tides (2011) (",
+    "new_name": "Pirates of the Caribbean on Stranger Tides( (2011)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Pirates of the Caribbean Dead Men Tell No Tales",
+    "reason": "Target Pirates of the Caribbean Dead Men Tell No Tales (2017) already exists"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Pirates of the Caribbean On Stranger Tides",
+    "reason": "Target Pirates of the Caribbean on Stranger Tides (2011) already exists"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Pirates of the Caribbean The Curse of the Black Pearl",
+    "reason": "Target Pirates of the Caribbean the Curse of the Black Pearl (2003) already exists"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\PITCH PERFECT 3",
+    "reason": "Target Pitch Perfect 3 (2017) already exists"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Playful disc menu",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Practical effects and other scene planning",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Practice Practice Malpractice  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Pre vis",
+    "new_path": "\\\\192.168.10.45\\Movies\\Pre Vis (2016)",
+    "old_name": "Pre vis",
+    "new_name": "Pre Vis (2016)"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Production Design",
+    "new_path": "\\\\192.168.10.45\\Movies\\Production Design (2010)",
+    "old_name": "Production Design",
+    "new_name": "Production Design (2010)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Rehearsing the fight scenes",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\RESIDENT EVIL no subtitle",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\RESIDENT_EVIL no subtitle",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\RESIDENT_EVIL_APOCALYPSE no subtitle",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\RESIDENT_EVIL_EXTINCTION no subtitle",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Robert Keeps Talking  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Robin Hood 2010",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Rocky 3",
+    "reason": "Target Rocky 3 (1982) already exists"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Rupert and Chloe",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\sample",
+    "new_path": "\\\\192.168.10.45\\Movies\\Sample (2019)",
+    "old_name": "sample",
+    "new_name": "Sample (2019)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Savor the Last Bite   The Venom Legacy",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\SCOOBY DOO ORIGINAL MYSTERIEStitle00",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\SCOOBY DOO ORIGINAL MYSTERIEStitle01",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\SCOOBY DOO ORIGINAL MYSTERIEStitle02",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\SCOOBY DOO ORIGINAL MYSTERIEStitle03",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\SCOOBY DOO ORIGINAL MYSTERIEStitle04",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Scrubbed Out  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Scrubbed Out Deleted Scenes  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Scrubs Elevator",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Scrubs Factor  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Se7en (1995) (",
+    "new_path": "\\\\192.168.10.45\\Movies\\Se7en( (1995)",
+    "old_name": "Se7en (1995) (",
+    "new_name": "Se7en( (1995)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Se7en 4K",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Se7ven   Seven (1995) ITA ENG Ac3 5 1 sub Ita BDRip",
+    "new_path": "\\\\192.168.10.45\\Movies\\Se7ven Sevenita Eng Ac3 5 1 Sub Ita Bdrip (1995)",
+    "old_name": "Se7ven   Seven (1995) ITA ENG Ac3 5 1 sub Ita BDRip",
+    "new_name": "Se7ven Sevenita Eng Ac3 5 1 Sub Ita Bdrip (1995)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Season 1 Blooper Reel",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Season 2 Blooper Reel",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Seattle Ain't What It Used To Be",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Secrets and Lies  [",
+    "new_path": "\\\\192.168.10.45\\Movies\\Secrets and Lies [ (1979)",
+    "old_name": "Secrets and Lies  [",
+    "new_name": "Secrets and Lies [ (1979)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Shawshank Redemption",
+    "reason": "Target Shawshank Redemption (1994) already exists"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Shrek 2 (2004) (",
+    "new_path": "\\\\192.168.10.45\\Movies\\Shrek 2( (2004)",
+    "old_name": "Shrek 2 (2004) (",
+    "new_name": "Shrek 2( (2004)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Side by Side Comparisons",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Sound Design",
+    "new_path": "\\\\192.168.10.45\\Movies\\Sound Design (2023)",
+    "old_name": "Sound Design",
+    "new_name": "Sound Design (2023)"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Spider Man Homecoming",
+    "new_path": "\\\\192.168.10.45\\Movies\\Spider Man Homecoming (2017)",
+    "old_name": "Spider Man Homecoming",
+    "new_name": "Spider Man Homecoming (2017)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\SPYKIDS",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Still Galleries",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Storyboard Sequence to Film Comparison",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Storyboards",
+    "new_path": "\\\\192.168.10.45\\Movies\\Storyboards (2002)",
+    "old_name": "Storyboards",
+    "new_name": "Storyboards (2002)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Stunt Casting  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Superman Showdown Cartoon",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Superstore S06",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Taken (2008) Unrated (",
+    "new_path": "\\\\192.168.10.45\\Movies\\Takenunrated ( (2008)",
+    "old_name": "Taken (2008) Unrated (",
+    "new_name": "Takenunrated ( (2008)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Teaser 01",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Teaser 02",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Teaser 03",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Teaser 04",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Teaser 05",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Teaser 06",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Teaser 07",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Teaser 08",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Teaser 09",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Teaser with english subs",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Teaser with spanish subs",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Terminator A Retrospective  [",
+    "new_path": "\\\\192.168.10.45\\Movies\\Terminator a Retrospective [ (1992)",
+    "old_name": "Terminator A Retrospective  [",
+    "new_name": "Terminator a Retrospective [ (1992)"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\The Accountant (2016) (",
+    "new_path": "\\\\192.168.10.45\\Movies\\The Accountant( (2016)",
+    "old_name": "The Accountant (2016) (",
+    "new_name": "The Accountant( (2016)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The Cast as Good as Gold",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The Clerks II VH1 Movie Special",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\The Crash",
+    "new_path": "\\\\192.168.10.45\\Movies\\The Crash (2017)",
+    "old_name": "The Crash",
+    "new_name": "The Crash (2017)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The Dark Knight",
+    "reason": "Target The Dark Knight (2008) already exists"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The Dark Knight Rises",
+    "reason": "Target The Dark Knight Rises (2012) already exists"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The Debra & Steph Show  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\The Doctor Is In  [",
+    "new_path": "\\\\192.168.10.45\\Movies\\The Doctor Is in [ (2014)",
+    "old_name": "The Doctor Is In  [",
+    "new_name": "The Doctor Is in [ (2014)"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\The Equalizer 2 (2018) (BDRip",
+    "new_path": "\\\\192.168.10.45\\Movies\\The Equalizer 2(bdrip (2018)",
+    "old_name": "The Equalizer 2 (2018) (BDRip",
+    "new_name": "The Equalizer 2(bdrip (2018)"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\The Fate of the Furious",
+    "new_path": "\\\\192.168.10.45\\Movies\\The Fate of the Furious (2017)",
+    "old_name": "The Fate of the Furious",
+    "new_name": "The Fate of the Furious (2017)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The Fifth Wave",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\The Hobbit An Unexpected Journey (2012) Extended",
+    "new_path": "\\\\192.168.10.45\\Movies\\The Hobbit an Unexpected Journeyextended (2012)",
+    "old_name": "The Hobbit An Unexpected Journey (2012) Extended",
+    "new_name": "The Hobbit an Unexpected Journeyextended (2012)"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\The Hobbit The Battle of the Five Armies (2014) Extended",
+    "new_path": "\\\\192.168.10.45\\Movies\\The Hobbit the Battle of the Five Armiesextended (2014)",
+    "old_name": "The Hobbit The Battle of the Five Armies (2014) Extended",
+    "new_name": "The Hobbit the Battle of the Five Armiesextended (2014)"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\The Hobbit The Desolation of Smaug (2013) Extended",
+    "new_path": "\\\\192.168.10.45\\Movies\\The Hobbit the Desolation of Smaugextended (2013)",
+    "old_name": "The Hobbit The Desolation of Smaug (2013) Extended",
+    "new_name": "The Hobbit the Desolation of Smaugextended (2013)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The Infinity Stones",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The Magic School Bus TAKES FLIGHTtitle00",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The Magic School Bus TAKES FLIGHTtitle01",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The Magic School Bus TAKES FLIGHTtitle02",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The Magic School Bus TAKES FLIGHTtitle03",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The Making of Inside Man",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The New Elliot  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The New Face of Evil",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The Official TVA Orientation Video",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\the rob riggle show rmxtras",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The Sweethearts Of Sacred Heart  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\The Terminator (1984)  [",
+    "new_path": "\\\\192.168.10.45\\Movies\\The Terminator[ (1984)",
+    "old_name": "The Terminator (1984)  [",
+    "new_name": "The Terminator[ (1984)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The Third Tier  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\The Weapons Chest  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Theatrical EPK",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Theatrical EPK   Promotional Materials",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\There's Something in the Woods",
+    "new_path": "\\\\192.168.10.45\\Movies\\There's Something in the Woods (2019)",
+    "old_name": "There's Something in the Woods",
+    "new_name": "There's Something in the Woods (2019)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Theres Something About Mary Extended",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Tomb Raider t01",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Toy Story 2 (1999) (",
+    "new_path": "\\\\192.168.10.45\\Movies\\Toy Story 2( (1999)",
+    "old_name": "Toy Story 2 (1999) (",
+    "new_name": "Toy Story 2( (1999)"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Trailer",
+    "new_path": "\\\\192.168.10.45\\Movies\\Trailer (2014)",
+    "old_name": "Trailer",
+    "new_name": "Trailer (2014)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Trailer 01",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Trailer 02",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Trailer 03",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Trailer 04",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Trailer 05",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Trailer 06",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Trailer 07",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Trailers",
+    "new_path": "\\\\192.168.10.45\\Movies\\Trailers (2016)",
+    "old_name": "Trailers",
+    "new_name": "Trailers (2016)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Train Wrecks   Video Production Diaries",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Transformers Age of Extinction",
+    "reason": "Target Transformers Age of Extinction (2014) already exists"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Transformers Dark of the Moon",
+    "reason": "Target Transformers Dark of the Moon (2011) already exists"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Transformers Revenge of the Fallen",
+    "reason": "Target Transformers Revenge of the Fallen (2009) already exists"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\tru calling 201 dvdrip",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\tru calling 202 dvdrip",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\tru calling 203 dvdrip",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\tru calling 204 dvdrip",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\tru calling 205 dvdrip",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\tru calling 206 dvdrip",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\TV Spots",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Twist and Shoot  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Two of a Kind",
+    "new_path": "\\\\192.168.10.45\\Movies\\Two of a Kind (1983)",
+    "old_name": "Two of a Kind",
+    "new_name": "Two of a Kind (1983)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Tyler quits smoking, Jack quits work",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Tyler quits smoking, Jack quits work   the kitchen scene",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Tylers Goodbye   Alternate audio mix",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Under Siege 2   Dark Territory (1995) (",
+    "new_path": "\\\\192.168.10.45\\Movies\\Under Siege 2 Dark Territory( (1995)",
+    "old_name": "Under Siege 2   Dark Territory (1995) (",
+    "new_name": "Under Siege 2 Dark Territory( (1995)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Upgrades   VFX of Terminator   Genisys  (",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Venom   The Last Dance (2024) (",
+    "new_path": "\\\\192.168.10.45\\Movies\\Venom the Last Dance( (2024)",
+    "old_name": "Venom   The Last Dance (2024) (",
+    "new_name": "Venom the Last Dance( (2024)"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Venom The Last Dance (2024) (BDRip",
+    "new_path": "\\\\192.168.10.45\\Movies\\Venom the Last Dance(bdrip (2024)",
+    "old_name": "Venom The Last Dance (2024) (BDRip",
+    "new_name": "Venom the Last Dance(bdrip (2024)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Venom Unleashed   The Action and Stunts",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Venom's Inner Circle",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Venomous Laughs   Outtakes and Bloopers",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\VFX Airplane",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\VFX Brainwalk map",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\VFX Buildings collapsing",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\VFX Corporate art fountain",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\VFX Corporate art fountain   location",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\VFX Crash scene",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\VFX Flying shots",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\VFX Gunshot in the mouth",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\VFX Jacks furniture",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\VFX Sequences",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\VFX Sex Scenes Flying shots",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Villains with a Vengeance",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Visual Effects Breakdowns",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Walter",
+    "new_path": "\\\\192.168.10.45\\Movies\\Walter (2015)",
+    "old_name": "Walter",
+    "new_name": "Walter (2015)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Welcome to Fight Club",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\What Up Dawg  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\Who Is That Man  [",
+    "new_path": "\\\\192.168.10.45\\Movies\\Who Is That Man [ (1985)",
+    "old_name": "Who Is That Man  [",
+    "new_name": "Who Is That Man [ (1985)"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Will You Ever Be My Mentor  [",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\Won t You Be My Neighbor 2018",
+    "reason": "No year available"
+  },
+  {
+    "action": "skip",
+    "path": "\\\\192.168.10.45\\Movies\\WONDER WOMAN",
+    "reason": "Target Wonder Woman (2017) already exists"
+  },
+  {
+    "action": "rename",
+    "old_path": "\\\\192.168.10.45\\Movies\\X Men Days of Future Past",
+    "new_path": "\\\\192.168.10.45\\Movies\\X Men Days of Future Past (2014)",
+    "old_name": "X Men Days of Future Past",
+    "new_name": "X Men Days of Future Past (2014)"
+  }
+]

@@ -32,7 +32,8 @@ services:
     container_name: deluge
     network_mode: service:nordvpn
     depends_on:
-      - nordvpn
+      nordvpn:
+        condition: service_started
     environment:
       - PUID=${PUID}
       - PGID=${PGID}
@@ -47,7 +48,8 @@ services:
     container_name: sabnzbd
     network_mode: service:nordvpn
     depends_on:
-      - nordvpn
+      nordvpn:
+        condition: service_started
     environment:
       - PUID=${PUID}
       - PGID=${PGID}
@@ -62,14 +64,15 @@ services:
     container_name: sonarr
     network_mode: service:nordvpn
     depends_on:
-      - nordvpn
+      nordvpn:
+        condition: service_started
     environment:
       - PUID=${PUID}
       - PGID=${PGID}
       - TZ=${TZ}
     volumes:
       - /home/dan/config/sonarr:/config
-      - /mnt/network_drive/tv:/tv
+      - /mnt/nfs/tv:/tv
       - /mnt/disk_1tb/downloads:/downloads
     restart: unless-stopped
 
@@ -78,14 +81,15 @@ services:
     container_name: radarr
     network_mode: service:nordvpn
     depends_on:
-      - nordvpn
+      nordvpn:
+        condition: service_started
     environment:
       - PUID=${PUID}
       - PGID=${PGID}
       - TZ=${TZ}
     volumes:
       - /home/dan/config/radarr:/config
-      - /mnt/network_drive/movies:/movies
+      - /mnt/nfs/movies:/movies
       - /mnt/disk_1tb/downloads:/downloads
     restart: unless-stopped
 
@@ -94,14 +98,15 @@ services:
     container_name: lidarr
     network_mode: service:nordvpn
     depends_on:
-      - nordvpn
+      nordvpn:
+        condition: service_started
     environment:
       - PUID=${PUID}
       - PGID=${PGID}
       - TZ=${TZ}
     volumes:
       - /home/dan/config/lidarr:/config
-      - /mnt/network_drive/music:/music
+      - /mnt/nfs/music:/music
       - /mnt/disk_1tb/downloads:/downloads
     restart: unless-stopped
 
@@ -110,7 +115,8 @@ services:
     container_name: prowlarr
     network_mode: service:nordvpn
     depends_on:
-      - nordvpn
+      nordvpn:
+        condition: service_started
     environment:
       - PUID=${PUID}
       - PGID=${PGID}

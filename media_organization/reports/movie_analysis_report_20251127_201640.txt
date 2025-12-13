@@ -1,0 +1,1336 @@
+================================================================================
+MOVIE FOLDER ANALYSIS REPORT
+================================================================================
+Generated: 2025-11-27 20:16:40
+Scanning: \\192.168.10.45\Movies
+
+Total movie folders found: 898
+Radarr-compatible format: 186
+Needs renaming: 712
+
+Connecting to Radarr at http://192.168.10.25:7878...
+Radarr has 707 movies in database
+Movies in Radarr: 749
+Movies NOT in Radarr: 149
+
+================================================================================
+DUPLICATE MOVIES FOUND: 34
+================================================================================
+
+🎬 Duplicate: 'back to the future'
+   Folders:
+   1. Back to the Future (no year) - 1 video file(s), 963.84 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Back to the Future
+   2. Back to the Future (1985) (1985) - 1 video file(s), 26485.51 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Back to the Future (1985)
+
+🎬 Duplicate: 'batman begins'
+   Folders:
+   1. Batman Begins (no year) - 1 video file(s), 3003.51 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Batman Begins
+   2. Batman Begins (2005) (2005) - 1 video file(s), 58863.29 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Batman Begins (2005)
+
+🎬 Duplicate: 'captain america the first avenger'
+   Folders:
+   1. Captain America The First Avenger (no year) - 1 video file(s), 5449.55 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Captain America The First Avenger
+   2. Captain America The First Avenger (2011) (2011) - 0 video file(s), 60133.51 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Captain America The First Avenger (2011)
+
+🎬 Duplicate: 'deadpool'
+   Folders:
+   1. DEADPOOL (no year) - 1 video file(s), 1066.61 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\DEADPOOL
+   2. Deadpool (2016) (2016) - 1 video file(s), 41302.38 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Deadpool (2016)
+
+🎬 Duplicate: 'doctor strange'
+   Folders:
+   1. Doctor Strange (no year) - 1 video file(s), 577.04 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Doctor Strange
+   2. Doctor Strange (2016) (2016) - 1 video file(s), 46639.13 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Doctor Strange (2016)
+
+🎬 Duplicate: 'elf'
+   Folders:
+   1. Elf (no year) - 1 video file(s), 3579.86 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Elf
+   2. Elf (2003) (2003) - 1 video file(s), 8327.3 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Elf (2003)
+
+🎬 Duplicate: 'guardians of the galaxy vol 2'
+   Folders:
+   1. Guardians of the Galaxy Vol 2 (no year) - 1 video file(s), 844.75 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Guardians of the Galaxy Vol 2
+   2. Guardians of the Galaxy Vol. 2 (2017) (2017) - 1 video file(s), 61441.51 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Guardians of the Galaxy Vol. 2 (2017)
+
+🎬 Duplicate: 'iron man'
+   Folders:
+   1. Iron Man (no year) - 1 video file(s), 6422.91 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Iron Man
+   2. Iron Man (2008) (2008) - 1 video file(s), 60677.12 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Iron Man (2008)
+
+🎬 Duplicate: 'iron man 3'
+   Folders:
+   1. Iron Man 3 (no year) - 1 video file(s), 690.94 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Iron Man 3
+   2. Iron Man 3 (2013) (2013) - 1 video file(s), 54572.8 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Iron Man 3 (2013)
+
+🎬 Duplicate: 'madagascar'
+   Folders:
+   1. Madagascar (no year) - 1 video file(s), 862.45 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Madagascar
+   2. Madagascar (2005) (2005) - 1 video file(s), 3850.95 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Madagascar (2005)
+
+🎬 Duplicate: 'old school'
+   Folders:
+   1. Old School (no year) - 1 video file(s), 719.98 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Old School
+   2. Old School (2003) (2003) - 1 video file(s), 2836.16 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Old School (2003)
+
+🎬 Duplicate: 'pirates of the caribbean at worlds end'
+   Folders:
+   1. Pirates of the Caribbean At World's End (2007) (2007) - 1 video file(s), 47630.3 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Pirates of the Caribbean At World's End (2007)
+   2. Pirates of the Caribbean At Worlds End (no year) - 1 video file(s), 9729.97 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Pirates of the Caribbean At Worlds End
+
+🎬 Duplicate: 'pirates of the caribbean dead mans chest'
+   Folders:
+   1. Pirates of the Caribbean Dead Man's Chest (2006) (2006) - 1 video file(s), 47352.85 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Pirates of the Caribbean Dead Man's Chest (2006)
+   2. Pirates of the Caribbean Dead Mans Chest (no year) - 1 video file(s), 5117.05 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Pirates of the Caribbean Dead Mans Chest
+
+🎬 Duplicate: 'pirates of the caribbean dead men tell no tales'
+   Folders:
+   1. Pirates of the Caribbean Dead Men Tell No Tales (no year) - 1 video file(s), 1014.76 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Pirates of the Caribbean Dead Men Tell No Tales
+   2. Pirates of the Caribbean Dead Men Tell No Tales (2017) (2017) - 1 video file(s), 61062.06 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Pirates of the Caribbean Dead Men Tell No Tales (2017)
+
+🎬 Duplicate: 'pirates of the caribbean on stranger tides'
+   Folders:
+   1. Pirates of the Caribbean On Stranger Tides (no year) - 1 video file(s), 3411.13 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Pirates of the Caribbean On Stranger Tides
+   2. Pirates of the Caribbean On Stranger Tides (2011) (2011) - 1 video file(s), 11404.87 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Pirates of the Caribbean On Stranger Tides (2011)
+
+🎬 Duplicate: 'pirates of the caribbean the curse of the black pearl'
+   Folders:
+   1. Pirates of the Caribbean The Curse of the Black Pearl (no year) - 1 video file(s), 4900.75 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Pirates of the Caribbean The Curse of the Black Pearl
+   2. Pirates of the Caribbean The Curse of the Black Pearl (2003) (2003) - 1 video file(s), 48020.97 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Pirates of the Caribbean The Curse of the Black Pearl (2003)
+
+🎬 Duplicate: 'shrek'
+   Folders:
+   1. Shrek (no year) - 1 video file(s), 3757.6 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Shrek
+   2. Shrek (2001) (2001) - 1 video file(s), 60164.21 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Shrek (2001)
+
+🎬 Duplicate: 'spaceballs'
+   Folders:
+   1. Spaceballs (no year) - 1 video file(s), 604.48 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Spaceballs
+   2. Spaceballs (1987) (1987) - 1 video file(s), 10984.68 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Spaceballs (1987)
+
+🎬 Duplicate: 'spiderman'
+   Folders:
+   1. Spider-Man (no year) - 1 video file(s), 4723.11 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Spider-Man
+   2. Spider-Man (2002) (2002) - 1 video file(s), 53755.32 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Spider-Man (2002)
+
+🎬 Duplicate: 'spiderman far from home'
+   Folders:
+   1. Spider-Man Far From Home (2019) (2019) - 1 video file(s), 6826.11 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Spider-Man Far From Home (2019)
+   2. Spider-Man- Far From Home (no year) - 1 video file(s), 1670.75 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Spider-Man- Far From Home
+
+🎬 Duplicate: 'suicide squad'
+   Folders:
+   1. Suicide Squad (no year) - 1 video file(s), 645.35 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Suicide Squad
+   2. Suicide Squad (2016) (2016) - 1 video file(s), 3186.47 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Suicide Squad (2016)
+
+🎬 Duplicate: 'taken'
+   Folders:
+   1. TAKEN (no year) - 1 video file(s), 960.82 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\TAKEN
+   2. Taken (2008) (2008) - 1 video file(s), 4328.88 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Taken (2008)
+
+🎬 Duplicate: 'talladega nights the ballad of ricky bobby'
+   Folders:
+   1. Talladega Nights The Ballad of Ricky Bobby (no year) - 1 video file(s), 719.9 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Talladega Nights The Ballad of Ricky Bobby
+   2. Talladega Nights The Ballad of Ricky Bobby (2006) (2006) - 1 video file(s), 3377.99 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Talladega Nights The Ballad of Ricky Bobby (2006)
+
+🎬 Duplicate: 'the accountant'
+   Folders:
+   1. The Accountant (no year) - 1 video file(s), 499.98 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\The Accountant
+   2. The Accountant (2016) (2016) - 1 video file(s), 47187.16 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\The Accountant (2016)
+
+🎬 Duplicate: 'the dark knight'
+   Folders:
+   1. The Dark Knight (no year) - 1 video file(s), 3751.59 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\The Dark Knight
+   2. The Dark Knight (2008) (2008) - 1 video file(s), 65321.91 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\The Dark Knight (2008)
+
+🎬 Duplicate: 'the dark knight rises'
+   Folders:
+   1. The Dark Knight Rises (no year) - 1 video file(s), 2868.35 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\The Dark Knight Rises
+   2. The Dark Knight Rises (2012) (2012) - 1 video file(s), 84523.66 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\The Dark Knight Rises (2012)
+
+🎬 Duplicate: 'the incredibles'
+   Folders:
+   1. The Incredibles (no year) - 1 video file(s), 871.75 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\The Incredibles
+   2. The Incredibles (2004) (2004) - 1 video file(s), 3790.05 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\The Incredibles (2004)
+
+🎬 Duplicate: 'the lego movie'
+   Folders:
+   1. The Lego Movie (no year) - 1 video file(s), 719.36 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\The Lego Movie
+   2. The Lego Movie (2014) (2014) - 1 video file(s), 38786.38 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\The Lego Movie (2014)
+
+🎬 Duplicate: 'the matrix'
+   Folders:
+   1. The Matrix (no year) - 1 video file(s), 965.49 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\The Matrix
+   2. The Matrix (1999) (1999) - 1 video file(s), 6594.1 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\The Matrix (1999)
+
+🎬 Duplicate: 'the princess bride'
+   Folders:
+   1. The Princess Bride (no year) - 1 video file(s), 1175.51 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\The Princess Bride
+   2. The Princess Bride (1987) (1987) - 1 video file(s), 58340.05 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\The Princess Bride (1987)
+
+🎬 Duplicate: 'thor'
+   Folders:
+   1. Thor (no year) - 1 video file(s), 1233.74 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Thor
+   2. Thor (2011) (2011) - 1 video file(s), 57995.23 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Thor (2011)
+
+🎬 Duplicate: 'transformers age of extinction'
+   Folders:
+   1. Transformers Age of Extinction (no year) - 1 video file(s), 9657.43 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Transformers Age of Extinction
+   2. Transformers Age of Extinction (2014) (2014) - 1 video file(s), 26910.74 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\Transformers Age of Extinction (2014)
+
+🎬 Duplicate: 'x2'
+   Folders:
+   1. X2 (no year) - 1 video file(s), 1610.5 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\X2
+   2. X2 (2003) (2003) - 1 video file(s), 49449.83 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\X2 (2003)
+
+🎬 Duplicate: 'xmen'
+   Folders:
+   1. X-Men (2000) (2000) - 1 video file(s), 55030.1 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\X-Men (2000)
+   2. XMEN (no year) - 1 video file(s), 1040.03 MB [IN RADARR]
+      Path: \\192.168.10.45\Movies\XMEN
+
+================================================================================
+⚠️  MOVIES NOT IN RADARR (CANNOT IMPORT): 149
+================================================================================
+
+These folders exist on disk but are not recognized by Radarr.
+Common reasons: naming issues, missing year, special characters
+
+• 100 Cartoons Disc1 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 2277.95 MB
+  Clean name: 100 cartoons disc1
+  Path: \\192.168.10.45\Movies\100 Cartoons Disc1
+
+• 100 Cartoons Disc2 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 5150.97 MB
+  Clean name: 100 cartoons disc2
+  Path: \\192.168.10.45\Movies\100 Cartoons Disc2
+
+• 3Amigos ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1275.58 MB
+  Clean name: 3amigos
+  Path: \\192.168.10.45\Movies\3Amigos
+
+• ALEX_AND_THE_LIST ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1110.68 MB
+  Clean name: alex_and_the_list
+  Path: \\192.168.10.45\Movies\ALEX_AND_THE_LIST
+
+• AMERICAN_ASSASIN ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1107.25 MB
+  Clean name: american_assasin
+  Path: \\192.168.10.45\Movies\AMERICAN_ASSASIN
+
+• AUSTIN_POWERS ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1600.4 MB
+  Clean name: austin_powers
+  Path: \\192.168.10.45\Movies\AUSTIN_POWERS
+
+• AVENGERS_ENDGAME ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1675.58 MB
+  Clean name: avengers_endgame
+  Path: \\192.168.10.45\Movies\AVENGERS_ENDGAME
+
+• Austin_Powers_3 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 696.28 MB
+  Clean name: austin_powers_3
+  Path: \\192.168.10.45\Movies\Austin_Powers_3
+
+• BACK_TO_THE_FUTURE ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1843.25 MB
+  Clean name: back_to_the_future
+  Path: \\192.168.10.45\Movies\BACK_TO_THE_FUTURE
+
+• BACK_TO_THE_FUTURE_II ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1546.07 MB
+  Clean name: back_to_the_future_ii
+  Path: \\192.168.10.45\Movies\BACK_TO_THE_FUTURE_II
+
+• BACK_TO_THE_FUTURE_III ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1755.46 MB
+  Clean name: back_to_the_future_iii
+  Path: \\192.168.10.45\Movies\BACK_TO_THE_FUTURE_III
+
+• BLACK_PANTHER ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1479.62 MB
+  Clean name: black_panther
+  Path: \\192.168.10.45\Movies\BLACK_PANTHER
+
+• BLADERUNNER ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 5006.03 MB
+  Clean name: bladerunner
+  Path: \\192.168.10.45\Movies\BLADERUNNER
+
+• Beauty_And_The_Beast_(Live_Action) ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 5019.87 MB
+  Clean name: beauty_and_the_beast_live_action
+  Path: \\192.168.10.45\Movies\Beauty_And_The_Beast_(Live_Action)
+
+• BlacKkKlansmanBlacKkKlansman ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 6480.58 MB
+  Clean name: blackkklansmanblackkklansman
+  Path: \\192.168.10.45\Movies\BlacKkKlansmanBlacKkKlansman
+
+• Blade_Runner_2049Blade_Runner_2049_t00 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 0 | Size: 0.0 MB
+  Clean name: blade_runner_2049blade_runner_2049_t00
+  Path: \\192.168.10.45\Movies\Blade_Runner_2049Blade_Runner_2049_t00
+
+• Blades of Glory-other ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 795.04 MB
+  Clean name: blades of gloryother
+  Path: \\192.168.10.45\Movies\Blades of Glory-other
+
+• CAPTAIN_AMERICA_THE_WINTER_SOLDIER ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 2983.02 MB
+  Clean name: captain_america_the_winter_soldier
+  Path: \\192.168.10.45\Movies\CAPTAIN_AMERICA_THE_WINTER_SOLDIER
+
+• CAPTAIN_MARVEL ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1141.83 MB
+  Clean name: captain_marvel
+  Path: \\192.168.10.45\Movies\CAPTAIN_MARVEL
+
+• CASPER short cartoon ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 75.0 MB
+  Clean name: casper short cartoon
+  Path: \\192.168.10.45\Movies\CASPER short cartoon
+
+• DCU_REIGN_OF_THE_SUPERMEN ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 652.37 MB
+  Clean name: dcu_reign_of_the_supermen
+  Path: \\192.168.10.45\Movies\DCU_REIGN_OF_THE_SUPERMEN
+
+• DEADPOOL_2 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1370.61 MB
+  Clean name: deadpool_2
+  Path: \\192.168.10.45\Movies\DEADPOOL_2
+
+• DESPICABLE_ME_3 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 957.06 MB
+  Clean name: despicable_me_3
+  Path: \\192.168.10.45\Movies\DESPICABLE_ME_3
+
+• DESTINATION_WEDDINGtitle00 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 0 | Size: 0.0 MB
+  Clean name: destination_weddingtitle00
+  Path: \\192.168.10.45\Movies\DESTINATION_WEDDINGtitle00
+
+• DIARY_OF_A_WIMPY_KID ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1485.84 MB
+  Clean name: diary_of_a_wimpy_kid
+  Path: \\192.168.10.45\Movies\DIARY_OF_A_WIMPY_KID
+
+• DONTWORRYHEWONTGETFARONFOOT ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1147.92 MB
+  Clean name: dontworryhewontgetfaronfoot
+  Path: \\192.168.10.45\Movies\DONTWORRYHEWONTGETFARONFOOT
+
+• DOWNADARKHALL ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 706.8 MB
+  Clean name: downadarkhall
+  Path: \\192.168.10.45\Movies\DOWNADARKHALL
+
+• DRAGGED_AROSS_CONCRETE ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 953.96 MB
+  Clean name: dragged_aross_concrete
+  Path: \\192.168.10.45\Movies\DRAGGED_AROSS_CONCRETE
+
+• DR_SUESS_THE_GRINCH ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1064.9 MB
+  Clean name: dr_suess_the_grinch
+  Path: \\192.168.10.45\Movies\DR_SUESS_THE_GRINCH
+
+• Everyones Hero WS ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 563.95 MB
+  Clean name: everyones hero ws
+  Path: \\192.168.10.45\Movies\Everyones Hero WS
+
+• FANTASTIC_FOUR_ANIMATED_VOLUME_2Part1 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 208.99 MB
+  Clean name: fantastic_four_animated_volume_2part1
+  Path: \\192.168.10.45\Movies\FANTASTIC_FOUR_ANIMATED_VOLUME_2Part1
+
+• FANTASTIC_FOUR_ANIMATED_VOLUME_2Part2 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 209.17 MB
+  Clean name: fantastic_four_animated_volume_2part2
+  Path: \\192.168.10.45\Movies\FANTASTIC_FOUR_ANIMATED_VOLUME_2Part2
+
+• FANTASTIC_FOUR_ANIMATED_VOLUME_2Part3 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 282.44 MB
+  Clean name: fantastic_four_animated_volume_2part3
+  Path: \\192.168.10.45\Movies\FANTASTIC_FOUR_ANIMATED_VOLUME_2Part3
+
+• FANTASTIC_FOUR_ANIMATED_VOLUME_2Part4 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 253.42 MB
+  Clean name: fantastic_four_animated_volume_2part4
+  Path: \\192.168.10.45\Movies\FANTASTIC_FOUR_ANIMATED_VOLUME_2Part4
+
+• GUARDIANS_OF_THE_GALAXY ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 2520.36 MB
+  Clean name: guardians_of_the_galaxy
+  Path: \\192.168.10.45\Movies\GUARDIANS_OF_THE_GALAXY
+
+• HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1595.36 MB
+  Clean name: harry_potter_and_the_chamber_of_secrets
+  Path: \\192.168.10.45\Movies\HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS
+
+• HARRY_POTTER_AND_THE_DEATHLY_HALLOWS_PART_1 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1221.61 MB
+  Clean name: harry_potter_and_the_deathly_hallows_part_1
+  Path: \\192.168.10.45\Movies\HARRY_POTTER_AND_THE_DEATHLY_HALLOWS_PART_1
+
+• HARRY_POTTER_AND_THE_DEATHLY_HALLOWS_PART_2 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1207.05 MB
+  Clean name: harry_potter_and_the_deathly_hallows_part_2
+  Path: \\192.168.10.45\Movies\HARRY_POTTER_AND_THE_DEATHLY_HALLOWS_PART_2
+
+• HARRY_POTTER_AND_THE_HALF_BLOOD_PRINCE ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1210.39 MB
+  Clean name: harry_potter_and_the_half_blood_prince
+  Path: \\192.168.10.45\Movies\HARRY_POTTER_AND_THE_HALF_BLOOD_PRINCE
+
+• HARRY_POTTER_AND_THE_ORDER_OF_THE_PHOENIX ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1417.24 MB
+  Clean name: harry_potter_and_the_order_of_the_phoenix
+  Path: \\192.168.10.45\Movies\HARRY_POTTER_AND_THE_ORDER_OF_THE_PHOENIX
+
+• HARRY_POTTER_AND_THE_SORCERERS_STONE ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1698.13 MB
+  Clean name: harry_potter_and_the_sorcerers_stone
+  Path: \\192.168.10.45\Movies\HARRY_POTTER_AND_THE_SORCERERS_STONE
+
+• HARRY_POTTER_GOBLET_OF_FIRE ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1604.96 MB
+  Clean name: harry_potter_goblet_of_fire
+  Path: \\192.168.10.45\Movies\HARRY_POTTER_GOBLET_OF_FIRE
+
+• HARRY_POTTER_PRISONER_OF_AZKABAN ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1799.23 MB
+  Clean name: harry_potter_prisoner_of_azkaban
+  Path: \\192.168.10.45\Movies\HARRY_POTTER_PRISONER_OF_AZKABAN
+
+• HOTSHOTS_PART_DEUX ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1275.74 MB
+  Clean name: hotshots_part_deux
+  Path: \\192.168.10.45\Movies\HOTSHOTS_PART_DEUX
+
+• HOW_TO_TRAIN_YOUR_DRAGON The Hidden World ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1220.36 MB
+  Clean name: how_to_train_your_dragon the hidden world
+  Path: \\192.168.10.45\Movies\HOW_TO_TRAIN_YOUR_DRAGON The Hidden World
+
+• Hotel_Transylvania_3Hotel_Transylvania_3_t21 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 3456.74 MB
+  Clean name: hotel_transylvania_3hotel_transylvania_3_t21
+  Path: \\192.168.10.45\Movies\Hotel_Transylvania_3Hotel_Transylvania_3_t21
+
+• Hotel_Transylvania_3Hotel_Transylvania_3_t22 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 3472.63 MB
+  Clean name: hotel_transylvania_3hotel_transylvania_3_t22
+  Path: \\192.168.10.45\Movies\Hotel_Transylvania_3Hotel_Transylvania_3_t22
+
+• Hotel_Transylvania_3Hotel_Transylvania_3_t27 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 3314.59 MB
+  Clean name: hotel_transylvania_3hotel_transylvania_3_t27
+  Path: \\192.168.10.45\Movies\Hotel_Transylvania_3Hotel_Transylvania_3_t27
+
+• Iron_Man_2 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1485.68 MB
+  Clean name: iron_man_2
+  Path: \\192.168.10.45\Movies\Iron_Man_2
+
+• JOHNNYDANGEROUSLY ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 955.67 MB
+  Clean name: johnnydangerously
+  Path: \\192.168.10.45\Movies\JOHNNYDANGEROUSLY
+
+• JOURNEY TO THE CENTER OF THE EARTH 3D ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 5728.86 MB
+  Clean name: journey to the center of the earth 3d
+  Path: \\192.168.10.45\Movies\JOURNEY TO THE CENTER OF THE EARTH 3D
+
+• JURASSIC_PARK ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 2394.45 MB
+  Clean name: jurassic_park
+  Path: \\192.168.10.45\Movies\JURASSIC_PARK
+
+• JURASSIC_WORLD ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1829.14 MB
+  Clean name: jurassic_world
+  Path: \\192.168.10.45\Movies\JURASSIC_WORLD
+
+• JUSTICE_LEAGUE_THE_BRAVE_AND_THE_BOLD_t00 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 663.04 MB
+  Clean name: justice_league_the_brave_and_the_bold_t00
+  Path: \\192.168.10.45\Movies\JUSTICE_LEAGUE_THE_BRAVE_AND_THE_BOLD_t00
+
+• JUSTICE_LEAGUE_THE_BRAVE_AND_THE_BOLD_t01 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 171.98 MB
+  Clean name: justice_league_the_brave_and_the_bold_t01
+  Path: \\192.168.10.45\Movies\JUSTICE_LEAGUE_THE_BRAVE_AND_THE_BOLD_t01
+
+• JUSTICE_LEAGUE_THE_BRAVE_AND_THE_BOLD_t02 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 158.84 MB
+  Clean name: justice_league_the_brave_and_the_bold_t02
+  Path: \\192.168.10.45\Movies\JUSTICE_LEAGUE_THE_BRAVE_AND_THE_BOLD_t02
+
+• JUSTICE_LEAGUE_THE_BRAVE_AND_THE_BOLD_t03 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 173.27 MB
+  Clean name: justice_league_the_brave_and_the_bold_t03
+  Path: \\192.168.10.45\Movies\JUSTICE_LEAGUE_THE_BRAVE_AND_THE_BOLD_t03
+
+• JUSTICE_LEAGUE_THE_BRAVE_AND_THE_BOLD_t04 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 160.5 MB
+  Clean name: justice_league_the_brave_and_the_bold_t04
+  Path: \\192.168.10.45\Movies\JUSTICE_LEAGUE_THE_BRAVE_AND_THE_BOLD_t04
+
+• Jurassic Park 3 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 851.08 MB
+  Clean name: jurassic park 3
+  Path: \\192.168.10.45\Movies\Jurassic Park 3
+
+• Justice_League ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 0 | Size: 0.0 MB
+  Clean name: justice_league
+  Path: \\192.168.10.45\Movies\Justice_League
+
+• Justice_LeagueJustice_League_t01 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 0 | Size: 0.0 MB
+  Clean name: justice_leaguejustice_league_t01
+  Path: \\192.168.10.45\Movies\Justice_LeagueJustice_League_t01
+
+• KILLBILL_VOL1 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1124.04 MB
+  Clean name: killbill_vol1
+  Path: \\192.168.10.45\Movies\KILLBILL_VOL1
+
+• LEGO_DC_SUPERHERO_THE_FLASH ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 943.78 MB
+  Clean name: lego_dc_superhero_the_flash
+  Path: \\192.168.10.45\Movies\LEGO_DC_SUPERHERO_THE_FLASH
+
+• LILO_AND_STITCH ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 2 | Size: 4154.05 MB
+  Clean name: lilo_and_stitch
+  Path: \\192.168.10.45\Movies\LILO_AND_STITCH
+
+• LILO_AND_STITCH_2 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 2 | Size: 4802.28 MB
+  Clean name: lilo_and_stitch_2
+  Path: \\192.168.10.45\Movies\LILO_AND_STITCH_2
+
+• LUCKY_NUMBER_SLEVIN ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 921.23 MB
+  Clean name: lucky_number_slevin
+  Path: \\192.168.10.45\Movies\LUCKY_NUMBER_SLEVIN
+
+• MARVEL'S CAPTAIN AMERICA- CIVIL WAR - BLU-RAY ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 5076.09 MB
+  Clean name: marvels captain america civil war bluray
+  Path: \\192.168.10.45\Movies\MARVEL'S CAPTAIN AMERICA- CIVIL WAR - BLU-RAY
+
+• MARVEL'S_ANT-MAN ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 4830.79 MB
+  Clean name: marvels_antman
+  Path: \\192.168.10.45\Movies\MARVEL'S_ANT-MAN
+
+• MARVEL'S_ANT-MAN_AND_THE_WASP ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 3574.36 MB
+  Clean name: marvels_antman_and_the_wasp
+  Path: \\192.168.10.45\Movies\MARVEL'S_ANT-MAN_AND_THE_WASP
+
+• MARVEL'S_AVENGERS_AGE_OF_ULTRON ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 4801.55 MB
+  Clean name: marvels_avengers_age_of_ultron
+  Path: \\192.168.10.45\Movies\MARVEL'S_AVENGERS_AGE_OF_ULTRON
+
+• MARVEL'S_AVENGERS_INFINITY_WAR ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 5482.33 MB
+  Clean name: marvels_avengers_infinity_war
+  Path: \\192.168.10.45\Movies\MARVEL'S_AVENGERS_INFINITY_WAR
+
+• MARVEL'S_CAPTAIN_AMERICA_THE_WINTER_SOLDIER ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 4417.22 MB
+  Clean name: marvels_captain_america_the_winter_soldier
+  Path: \\192.168.10.45\Movies\MARVEL'S_CAPTAIN_AMERICA_THE_WINTER_SOLDIER
+
+• MARVEL'S_GUARDIANS_OF_THE_GALAXY ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 3592.99 MB
+  Clean name: marvels_guardians_of_the_galaxy
+  Path: \\192.168.10.45\Movies\MARVEL'S_GUARDIANS_OF_THE_GALAXY
+
+• MARVEL'S_THOR_RAGNAROK ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 4635.71 MB
+  Clean name: marvels_thor_ragnarok
+  Path: \\192.168.10.45\Movies\MARVEL'S_THOR_RAGNAROK
+
+• MONSTERS_UNIVERSITY ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1439.18 MB
+  Clean name: monsters_university
+  Path: \\192.168.10.45\Movies\MONSTERS_UNIVERSITY
+
+• Maleficient ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 667.63 MB
+  Clean name: maleficient
+  Path: \\192.168.10.45\Movies\Maleficient
+
+• NANNY_MCPHEE ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1744.31 MB
+  Clean name: nanny_mcphee
+  Path: \\192.168.10.45\Movies\NANNY_MCPHEE
+
+• NAPOLEON_DYNAMITE ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1038.07 MB
+  Clean name: napoleon_dynamite
+  Path: \\192.168.10.45\Movies\NAPOLEON_DYNAMITE
+
+• NATIONAL_LAMPOON'S_CHRISTMAS_VACATION ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 2 | Size: 2120.55 MB
+  Clean name: national_lampoons_christmas_vacation
+  Path: \\192.168.10.45\Movies\NATIONAL_LAMPOON'S_CHRISTMAS_VACATION
+
+• NINETOFIVE ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1755.35 MB
+  Clean name: ninetofive
+  Path: \\192.168.10.45\Movies\NINETOFIVE
+
+• OFFICESPACE ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 961.96 MB
+  Clean name: officespace
+  Path: \\192.168.10.45\Movies\OFFICESPACE
+
+• OLD_SCHOOL ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1320.72 MB
+  Clean name: old_school
+  Path: \\192.168.10.45\Movies\OLD_SCHOOL
+
+• ORANGECOUNTY ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 949.85 MB
+  Clean name: orangecounty
+  Path: \\192.168.10.45\Movies\ORANGECOUNTY
+
+• OVER_THE_HEDGE ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1045.4 MB
+  Clean name: over_the_hedge
+  Path: \\192.168.10.45\Movies\OVER_THE_HEDGE
+
+• PETES_DRAGON_USA ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 2260.89 MB
+  Clean name: petes_dragon_usa
+  Path: \\192.168.10.45\Movies\PETES_DRAGON_USA
+
+• PITCH_PERFECT_3 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1327.49 MB
+  Clean name: pitch_perfect_3
+  Path: \\192.168.10.45\Movies\PITCH_PERFECT_3
+
+• Petes Dragon - old ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1292.77 MB
+  Clean name: petes dragon old
+  Path: \\192.168.10.45\Movies\Petes Dragon - old
+
+• RAMBOtitle00 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 0 | Size: 0.0 MB
+  Clean name: rambotitle00
+  Path: \\192.168.10.45\Movies\RAMBOtitle00
+
+• READY_PLAYER_ONE ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1669.25 MB
+  Clean name: ready_player_one
+  Path: \\192.168.10.45\Movies\READY_PLAYER_ONE
+
+• RESIDENT_EVIL no subtitle ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 0 | Size: 0.0 MB
+  Clean name: resident_evil no subtitle
+  Path: \\192.168.10.45\Movies\RESIDENT_EVIL no subtitle
+
+• RESIDENT_EVIL_AFTERLIFE ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 2 | Size: 17942.0 MB
+  Clean name: resident_evil_afterlife
+  Path: \\192.168.10.45\Movies\RESIDENT_EVIL_AFTERLIFE
+
+• RESIDENT_EVIL_APOCALYPSE no subtitle ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1078.34 MB
+  Clean name: resident_evil_apocalypse no subtitle
+  Path: \\192.168.10.45\Movies\RESIDENT_EVIL_APOCALYPSE no subtitle
+
+• RESIDENT_EVIL_EXTINCTION no subtitle ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1133.81 MB
+  Clean name: resident_evil_extinction no subtitle
+  Path: \\192.168.10.45\Movies\RESIDENT_EVIL_EXTINCTION no subtitle
+
+• Rambo 4 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 6341.36 MB
+  Clean name: rambo 4
+  Path: \\192.168.10.45\Movies\Rambo 4
+
+• SCOOBY_DOO_ORIGINAL_MYSTERIEStitle00 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 290.23 MB
+  Clean name: scooby_doo_original_mysteriestitle00
+  Path: \\192.168.10.45\Movies\SCOOBY_DOO_ORIGINAL_MYSTERIEStitle00
+
+• SCOOBY_DOO_ORIGINAL_MYSTERIEStitle01 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 364.86 MB
+  Clean name: scooby_doo_original_mysteriestitle01
+  Path: \\192.168.10.45\Movies\SCOOBY_DOO_ORIGINAL_MYSTERIEStitle01
+
+• SCOOBY_DOO_ORIGINAL_MYSTERIEStitle02 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 301.61 MB
+  Clean name: scooby_doo_original_mysteriestitle02
+  Path: \\192.168.10.45\Movies\SCOOBY_DOO_ORIGINAL_MYSTERIEStitle02
+
+• SCOOBY_DOO_ORIGINAL_MYSTERIEStitle03 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 387.22 MB
+  Clean name: scooby_doo_original_mysteriestitle03
+  Path: \\192.168.10.45\Movies\SCOOBY_DOO_ORIGINAL_MYSTERIEStitle03
+
+• SCOOBY_DOO_ORIGINAL_MYSTERIEStitle04 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 444.26 MB
+  Clean name: scooby_doo_original_mysteriestitle04
+  Path: \\192.168.10.45\Movies\SCOOBY_DOO_ORIGINAL_MYSTERIEStitle04
+
+• SHAWSHANK_REDEMPTION ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 6876.13 MB
+  Clean name: shawshank_redemption
+  Path: \\192.168.10.45\Movies\SHAWSHANK_REDEMPTION
+
+• SPYKIDS ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1332.8 MB
+  Clean name: spykids
+  Path: \\192.168.10.45\Movies\SPYKIDS
+
+• SPY_KIDS_2 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 2 | Size: 5873.04 MB
+  Clean name: spy_kids_2
+  Path: \\192.168.10.45\Movies\SPY_KIDS_2
+
+• SPY_KIDS_3 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 2 | Size: 3130.49 MB
+  Clean name: spy_kids_3
+  Path: \\192.168.10.45\Movies\SPY_KIDS_3
+
+• SPY_KIDS_3_3D ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1051.58 MB
+  Clean name: spy_kids_3_3d
+  Path: \\192.168.10.45\Movies\SPY_KIDS_3_3D
+
+• SUPERMAN_BATMAN_PUBLIC_ENEMIES ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 749.81 MB
+  Clean name: superman_batman_public_enemies
+  Path: \\192.168.10.45\Movies\SUPERMAN_BATMAN_PUBLIC_ENEMIES
+
+• SUPER_TROOPERS ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1248.38 MB
+  Clean name: super_troopers
+  Path: \\192.168.10.45\Movies\SUPER_TROOPERS
+
+• Sabans Power Rangers The Movie ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 919.8 MB
+  Clean name: sabans power rangers the movie
+  Path: \\192.168.10.45\Movies\Sabans Power Rangers The Movie
+
+• Spider-Man_2 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 5110.33 MB
+  Clean name: spiderman_2
+  Path: \\192.168.10.45\Movies\Spider-Man_2
+
+• Spider-Man_3 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1649.94 MB
+  Clean name: spiderman_3
+  Path: \\192.168.10.45\Movies\Spider-Man_3
+
+• Spider-Man_Homecoming ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 2795.28 MB
+  Clean name: spiderman_homecoming
+  Path: \\192.168.10.45\Movies\Spider-Man_Homecoming
+
+• Spy Kids 3-3D ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 639.29 MB
+  Clean name: spy kids 33d
+  Path: \\192.168.10.45\Movies\Spy Kids 3-3D
+
+• Superman Showdown Cartoon ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 808.66 MB
+  Clean name: superman showdown cartoon
+  Path: \\192.168.10.45\Movies\Superman Showdown Cartoon
+
+• Supertroopers ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 862.31 MB
+  Clean name: supertroopers
+  Path: \\192.168.10.45\Movies\Supertroopers
+
+• THEBOUNCER ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 663.11 MB
+  Clean name: thebouncer
+  Path: \\192.168.10.45\Movies\THEBOUNCER
+
+• THERES_SOMETHING_ABOUT_MARY ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1673.58 MB
+  Clean name: theres_something_about_mary
+  Path: \\192.168.10.45\Movies\THERES_SOMETHING_ABOUT_MARY
+
+• THE_ASSIGNMENT ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 2 | Size: 23370.94 MB
+  Clean name: the_assignment
+  Path: \\192.168.10.45\Movies\THE_ASSIGNMENT
+
+• THE_BOURNE_IDENTITY ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1197.68 MB
+  Clean name: the_bourne_identity
+  Path: \\192.168.10.45\Movies\THE_BOURNE_IDENTITY
+
+• THE_BOURNE_SUPREMECY ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1189.81 MB
+  Clean name: the_bourne_supremecy
+  Path: \\192.168.10.45\Movies\THE_BOURNE_SUPREMECY
+
+• THE_BOURNE_ULTIMATUM ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1554.05 MB
+  Clean name: the_bourne_ultimatum
+  Path: \\192.168.10.45\Movies\THE_BOURNE_ULTIMATUM
+
+• THE_CAMPAIGN ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 2 | Size: 17180.78 MB
+  Clean name: the_campaign
+  Path: \\192.168.10.45\Movies\THE_CAMPAIGN
+
+• THE_HATEFUL_EIGHT ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1284.17 MB
+  Clean name: the_hateful_eight
+  Path: \\192.168.10.45\Movies\THE_HATEFUL_EIGHT
+
+• THE_INFORMANT ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 983.92 MB
+  Clean name: the_informant
+  Path: \\192.168.10.45\Movies\THE_INFORMANT
+
+• THE_LAST_FACE ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1381.56 MB
+  Clean name: the_last_face
+  Path: \\192.168.10.45\Movies\THE_LAST_FACE
+
+• THE_LEGO_MOVIE_2 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 993.87 MB
+  Clean name: the_lego_movie_2
+  Path: \\192.168.10.45\Movies\THE_LEGO_MOVIE_2
+
+• THE_LION_KING ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1598.62 MB
+  Clean name: the_lion_king
+  Path: \\192.168.10.45\Movies\THE_LION_KING
+
+• THE_MUMMY ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1036.82 MB
+  Clean name: the_mummy
+  Path: \\192.168.10.45\Movies\THE_MUMMY
+
+• THE_PROFESSORtitle_t00 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 12.0 MB
+  Clean name: the_professortitle_t00
+  Path: \\192.168.10.45\Movies\THE_PROFESSORtitle_t00
+
+• THE_ROOM ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 980.04 MB
+  Clean name: the_room
+  Path: \\192.168.10.45\Movies\THE_ROOM
+
+• THE_SCORPION_KING_RISE_OF_A_WARRIOR ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1576.03 MB
+  Clean name: the_scorpion_king_rise_of_a_warrior
+  Path: \\192.168.10.45\Movies\THE_SCORPION_KING_RISE_OF_A_WARRIOR
+
+• THE_USUAL_SUSPECTS ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 6946.12 MB
+  Clean name: the_usual_suspects
+  Path: \\192.168.10.45\Movies\THE_USUAL_SUSPECTS
+
+• TOOTH_FAIRY ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1201.87 MB
+  Clean name: tooth_fairy
+  Path: \\192.168.10.45\Movies\TOOTH_FAIRY
+
+• Talladega_Nights ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1256.18 MB
+  Clean name: talladega_nights
+  Path: \\192.168.10.45\Movies\Talladega_Nights
+
+• The Case for Christ ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 548.2 MB
+  Clean name: the case for christ
+  Path: \\192.168.10.45\Movies\The Case for Christ
+
+• The Magic School Bus TAKES_FLIGHTtitle00 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 559.62 MB
+  Clean name: the magic school bus takes_flighttitle00
+  Path: \\192.168.10.45\Movies\The Magic School Bus TAKES_FLIGHTtitle00
+
+• The Magic School Bus TAKES_FLIGHTtitle01 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 507.62 MB
+  Clean name: the magic school bus takes_flighttitle01
+  Path: \\192.168.10.45\Movies\The Magic School Bus TAKES_FLIGHTtitle01
+
+• The Magic School Bus TAKES_FLIGHTtitle02 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 431.22 MB
+  Clean name: the magic school bus takes_flighttitle02
+  Path: \\192.168.10.45\Movies\The Magic School Bus TAKES_FLIGHTtitle02
+
+• The Magic School Bus TAKES_FLIGHTtitle03 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 506.82 MB
+  Clean name: the magic school bus takes_flighttitle03
+  Path: \\192.168.10.45\Movies\The Magic School Bus TAKES_FLIGHTtitle03
+
+• The_Amazing_Spider-Man ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1266.7 MB
+  Clean name: the_amazing_spiderman
+  Path: \\192.168.10.45\Movies\The_Amazing_Spider-Man
+
+• The_New_Guy ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1685.77 MB
+  Clean name: the_new_guy
+  Path: \\192.168.10.45\Movies\The_New_Guy
+
+• Theres Something About Mary Extended ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 931.07 MB
+  Clean name: theres something about mary extended
+  Path: \\192.168.10.45\Movies\Theres Something About Mary Extended
+
+• Tomb_Raider_t01 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 0.0 MB
+  Clean name: tomb_raider_t01
+  Path: \\192.168.10.45\Movies\Tomb_Raider_t01
+
+• Venom_(2018) (2018)
+  Radarr format: ✗ | Videos: 1 | Size: 1218.46 MB
+  Clean name: venom_
+  Path: \\192.168.10.45\Movies\Venom_(2018)
+
+• WEDDING_SINGER ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1282.41 MB
+  Clean name: wedding_singer
+  Path: \\192.168.10.45\Movies\WEDDING_SINGER
+
+• WONDER_WOMAN ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1413.87 MB
+  Clean name: wonder_woman
+  Path: \\192.168.10.45\Movies\WONDER_WOMAN
+
+• WakingNedDevine ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 647.07 MB
+  Clean name: wakingneddevine
+  Path: \\192.168.10.45\Movies\WakingNedDevine
+
+• X-MEN_THE_LAST_STAND ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1183.77 MB
+  Clean name: xmen_the_last_stand
+  Path: \\192.168.10.45\Movies\X-MEN_THE_LAST_STAND
+
+• X-Men First Class 35mm Special (2011) (2011)
+  Radarr format: ✓ | Videos: 1 | Size: 2487.39 MB
+  Clean name: xmen first class 35mm special
+  Path: \\192.168.10.45\Movies\X-Men First Class 35mm Special (2011)
+
+• XMEN_DARK_PHOENIX ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 1095.08 MB
+  Clean name: xmen_dark_phoenix
+  Path: \\192.168.10.45\Movies\XMEN_DARK_PHOENIX
+
+• ZOOLANDER2 ⚠️  NO YEAR
+  Radarr format: ✗ | Videos: 1 | Size: 0.0 MB
+  Clean name: zoolander2
+  Path: \\192.168.10.45\Movies\ZOOLANDER2
+
+
+================================================================================
+FOLDERS NEEDING RADARR FORMAT: 712
+================================================================================
+
+Radarr expects: 'Movie Title (Year)'
+
+• 100 Cartoons Disc1 [NOT IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: 100 cartoons disc1
+  Files: 100 Cartoons Disc1.m4v
+
+• 100 Cartoons Disc2 [NOT IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: 100 cartoons disc2
+  Files: 100 Cartoons Disc2.m4v
+
+• 10_MINUTES_GONE [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: 10_minutes_gone
+  Files: 10_MINUTES_GONE.mkv
+
+• 24_HOURS_TO_LIVE [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: 24_hours_to_live
+  Files: 24_HOURS_TO_LIVE.mkv
+
+• 300 [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: 300
+  Files: 300.mkv
+
+• 300_Rise_of_an_Empire [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: 300_rise_of_an_empire
+  Files: 300_Rise_of_an_Empire.mkv
+
+• 30_Minutes_or_Less [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: 30_minutes_or_less
+  Files: 30_Minutes_or_Less.mkv
+
+• 3Amigos [NOT IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: 3amigos
+  Files: 3Amigos.m4v
+
+• 47 Meters Down [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: 47 meters down
+  Files: 47 Meters Down.m4v
+
+• 50 First Dates [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: 50 first dates
+  Files: 50 First Dates.m4v
+
+• A Million Ways to Die in the West [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: a million ways to die in the west
+  Files: A Million Ways to Die in the West (2014) WEBDL-1080p.mkv, A Million Ways to Die in the West.m4v
+
+• A New Hope [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: a new hope
+  Files: A New Hope.mkv
+
+• A Violent Separation [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: a violent separation
+  Files: A Violent Separation.mkv
+
+• ACTS_OF_VIOLENCE [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: acts_of_violence
+  Files: Acts of Violence (2018) Bluray-1080p.mkv, ACTS_OF_VIOLENCE.mkv
+
+• ADRIFT [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: adrift
+  Files: ADRIFT.mkv
+
+• AFTER [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: after
+  Files: AFTER.mkv
+
+• AIRPLANE [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: airplane
+  Files: AIRPLANE.mkv
+
+• AIR_STRIKE [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: air_strike
+  Files: AIR_STRIKE.mkv
+
+• AI_RISING [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: ai_rising
+  Files: AI_RISING.mkv
+
+• ALADDIN [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: aladdin
+  Files: ALADDIN.mkv
+
+• ALEX_AND_THE_LIST [NOT IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: alex_and_the_list
+  Files: ALEX_AND_THE_LIST.mkv
+
+• AMERICAN_ASSASIN [NOT IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: american_assasin
+  Files: AMERICAN_ASSASIN.mkv
+
+• AMERICAN_BEAUTY [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: american_beauty
+  Files: AMERICAN_BEAUTY.mkv
+
+• AMERICAN_MADE [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: american_made
+  Files: American Made (2017) WEBDL-1080p.mkv, AMERICAN_MADE.mkv
+
+• ANGEL_OF_MINE [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: angel_of_mine
+  Files: ANGEL_OF_MINE.mkv
+
+• ANNIHILATION [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: annihilation
+  Files: ANNIHILATION.mkv
+
+• AQUAMAN [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: aquaman
+  Files: AQUAMAN.mkv
+
+• ARIZONA [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: arizona
+  Files: ARIZONA.mkv
+
+• ARMY_OF_DARKNESS [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: army_of_darkness
+  Files: ARMY_OF_DARKNESS.mkv
+
+• ASSASSINATION_NATION [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: assassination_nation
+  Files: ASSASSINATION_NATION.mkv
+
+• ATOMIC_BLONDE [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: atomic_blonde
+  Files: ATOMIC_BLONDE.mkv
+
+• AUSTIN POWERS [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: austin powers
+  Files: AUSTIN POWERS.m4v
+
+• AUSTIN_POWERS [NOT IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: austin_powers
+  Files: AUSTIN_POWERS.mkv
+
+• AVENGERS_ENDGAME [NOT IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: avengers_endgame
+  Files: AVENGERS_ENDGAME.mkv
+
+• AXL [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: axl
+  Files: AXL.mkv
+
+• A_BAD_MOMS_CHRISTMAS [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: a_bad_moms_christmas
+  Files: A_BAD_MOMS_CHRISTMAS.mkv
+
+• A_CHRISTMAS_CAROL [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: a_christmas_carol
+  Files: A_CHRISTMAS_CAROL.m4v
+
+• A_GUY_THING [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: a_guy_thing
+  Files: A_GUY_THING.mkv
+
+• A_QUIET_PLACE [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: a_quiet_place
+  Files: A_QUIET_PLACE.mkv
+
+• A_SCORE_TO_SETTLE [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: a_score_to_settle
+  Files: A_SCORE_TO_SETTLE.mkv
+
+• A_SIMPLE_FAVOR [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: a_simple_favor
+  Files: A_SIMPLE_FAVOR.mkv
+
+• A_STAR_IS_BORN [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: a_star_is_born
+  Files: A Star Is Born (1937) Remux-1080p.mkv, A_STAR_IS_BORN.mkv
+
+• A_VIGILANTE [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: a_vigilante
+  Files: A_VIGILANTE.mkv
+
+• A_WRINKLE_IN_TIME [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: a_wrinkle_in_time
+  Files: A_WRINKLE_IN_TIME.mkv
+
+• Absolutely Anything [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: absolutely anything
+  Files: Absolutely Anything.m4v
+
+• Alien Covenant [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: alien covenant
+  Files: Alien Covenant.m4v
+
+• Alita- Battle Angel [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: alita battle angel
+  Files: Alita Battle Angel (2019) Bluray-1080p.mp4, Alita- Battle Angel.mkv
+
+• All_The_Money_In_The_World [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: all_the_money_in_the_world
+  Files: All_The_Money_In_The_World.mkv
+
+• Allied [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: allied
+  Files: Allied.m4v
+
+• Aloha [IN RADARR]
+  Status: ⚠️  Missing year
+  Clean name: aloha
+  Files: Aloha.m4v
+
+... and 662 more folders
+
+================================================================================
+⚠️  FOLDERS WITHOUT VIDEO FILES: 16
+================================================================================
+• Blade_Runner_2049 [IN RADARR]
+  Path: \\192.168.10.45\Movies\Blade_Runner_2049
+
+• Blade_Runner_2049Blade_Runner_2049_t00 [NOT IN RADARR]
+  Path: \\192.168.10.45\Movies\Blade_Runner_2049Blade_Runner_2049_t00
+
+• Captain America The First Avenger (2011) [IN RADARR]
+  Path: \\192.168.10.45\Movies\Captain America The First Avenger (2011)
+
+• DESTINATION_WEDDING [IN RADARR]
+  Path: \\192.168.10.45\Movies\DESTINATION_WEDDING
+
+• DESTINATION_WEDDINGtitle00 [NOT IN RADARR]
+  Path: \\192.168.10.45\Movies\DESTINATION_WEDDINGtitle00
+
+• Justice_League [NOT IN RADARR]
+  Path: \\192.168.10.45\Movies\Justice_League
+
+• Justice_LeagueJustice_League_t01 [NOT IN RADARR]
+  Path: \\192.168.10.45\Movies\Justice_LeagueJustice_League_t01
+
+• Lucky Number Slevin (2006) [IN RADARR]
+  Path: \\192.168.10.45\Movies\Lucky Number Slevin (2006)
+
+• Neighbors 2 [IN RADARR]
+  Path: \\192.168.10.45\Movies\Neighbors 2
+
+• Neighbors 2 Sorority Rising [IN RADARR]
+  Path: \\192.168.10.45\Movies\Neighbors 2 Sorority Rising
+
+• Pitch Perfect 2 (2015) [IN RADARR]
+  Path: \\192.168.10.45\Movies\Pitch Perfect 2 (2015)
+
+• RAMBO [IN RADARR]
+  Path: \\192.168.10.45\Movies\RAMBO
+
+• RAMBOtitle00 [NOT IN RADARR]
+  Path: \\192.168.10.45\Movies\RAMBOtitle00
+
+• RESIDENT_EVIL [IN RADARR]
+  Path: \\192.168.10.45\Movies\RESIDENT_EVIL
+
+• RESIDENT_EVIL no subtitle [NOT IN RADARR]
+  Path: \\192.168.10.45\Movies\RESIDENT_EVIL no subtitle
+
+• Spider-Man Homecoming (2017) [IN RADARR]
+  Path: \\192.168.10.45\Movies\Spider-Man Homecoming (2017)
+
+
+================================================================================
+SUMMARY
+================================================================================
+Total folders: 898
+Duplicates: 34
+Radarr-compatible format: 186
+Need renaming: 712
+Empty folders: 16
+
+Radarr Integration:
+  In Radarr database: 749
+  NOT in Radarr (cannot import): 149
+  Total in Radarr DB: 707
+================================================================================
+
+Report saved to: movie_analysis_report_20251127_201640.txt
