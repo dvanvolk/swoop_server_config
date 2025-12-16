@@ -26,6 +26,7 @@ services:
       - 8686:8686  # Lidarr
       - 9696:9696  # Prowlarr
     restart: unless-stopped
+    network_mode: bridge (implicit)
 
   deluge:
     image: lscr.io/linuxserver/deluge:latest
@@ -40,7 +41,7 @@ services:
       - TZ=${TZ}
     volumes:
       - /home/dan/config/deluge:/config
-      - /mnt/disk_1tb/downloads:/downloads
+      - /mnt/nfs/downloads:/downloads
     restart: unless-stopped
 
   sabnzbd:
@@ -56,13 +57,13 @@ services:
       - TZ=${TZ}
     volumes:
       - /home/dan/config/sabnzbd:/config
-      - /mnt/disk_1tb/downloads:/downloads
+      - /mnt/nfs/downloads:/downloads
     restart: unless-stopped
 
   sonarr:
     image: lscr.io/linuxserver/sonarr:latest
     container_name: sonarr
-    network_mode: service:nordvpn
+    network_mode: bridge
     depends_on:
       nordvpn:
         condition: service_started
@@ -73,13 +74,13 @@ services:
     volumes:
       - /home/dan/config/sonarr:/config
       - /mnt/nfs/tv:/tv
-      - /mnt/disk_1tb/downloads:/downloads
+      - /mnt/nfs/downloads:/downloads
     restart: unless-stopped
 
   radarr:
     image: lscr.io/linuxserver/radarr:latest
     container_name: radarr
-    network_mode: service:nordvpn
+    network_mode: bridge
     depends_on:
       nordvpn:
         condition: service_started
@@ -90,7 +91,7 @@ services:
     volumes:
       - /home/dan/config/radarr:/config
       - /mnt/nfs/movies:/movies
-      - /mnt/disk_1tb/downloads:/downloads
+      - /mnt/nfs/downloads:/downloads
     restart: unless-stopped
 
   lidarr:
@@ -107,7 +108,7 @@ services:
     volumes:
       - /home/dan/config/lidarr:/config
       - /mnt/nfs/music:/music
-      - /mnt/disk_1tb/downloads:/downloads
+      - /mnt/nfs/downloads:/downloads
     restart: unless-stopped
 
   prowlarr:
